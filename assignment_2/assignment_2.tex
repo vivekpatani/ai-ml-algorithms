@@ -242,8 +242,27 @@ What are \textbf{Association Rules}?\\
 \end{itemize}
 \end{center}
 }
+\linebreak
+The basic \textbf{Apriori Algorithm} is divided into two parts:\\
+\begin{itemize}
+\item Finding Frequent Itemsets.
+\begin{itemize}
+\item Generating Candidate Itemsets.
+\item Filtering the useful candidates.
+\end{itemize}
+\item Mining/Discovering Unknown Patterns from frequent itemsets.
+\end{itemize}
+\begin{enumerate}
+\item How to find the Frequent Itemsets?
+\begin{itemize}
+\item The very basic need is to specify a \textbf{Support level}.
+\item Next step consists of actually scanning through the input transaction set and only collecting that cross the threshold of Support with 1 - item set in mind. In other words, eliminate those who do not matter and contribute towards forming interesting patterns.
+\item Once we filter based on the support level, we start building candidate sets of k - items.
+\item
+\end{itemize}
+\end{enumerate}
 \end{homeworkProblem}
-\clearpage
+\newpage
 
 %----------------------------------------------------------------------------------------
 
@@ -257,7 +276,7 @@ What are \textbf{Association Rules}?\\
 \item \url{https://www.researchgate.net/publication/238525379_Association_rule_mining-_Applications_in_various_areas}
 \item \url{https://www.youtube.com/watch?v=RHkvnRemaLE&index=3&list=PLVOXKA8fjRuvTVJt_n1rkRl6n3sGcyY6a}
 \item \url{http://aimotion.blogspot.com/2013/01/machine-learning-and-data-mining.html}
-
+\item \url{http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf}
 \end{itemize}
 \end{center}
 \clearpage
