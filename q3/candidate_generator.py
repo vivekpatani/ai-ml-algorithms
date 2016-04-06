@@ -34,31 +34,17 @@ def dataSetScanner(dataset, candidates, min_support):
     
     #This stores the number of times a certain subset has appeared    
     subset_count = {}
-    #Only for testing    
-    #print("===============Dataset=======================")
-    #print(dataset)
-    #print("===============Candidates====================")
-    #print(candidates)
     
     #Walk through each transaction in the dataset
     for each_transx in dataset:
-        #Only for testing
-        #print("NEW TRANSX")
-        #print(each_transx)
-        
         #Check each candidate in the dataset
         for each_candidate in candidates:
-            #Only for testing            
-            #print(each_candidate)
-            #If the each candidate is a subset of the transaction
             if each_candidate.issubset(each_transx):
                 #Add that subset to the subset count
                 subset_count.setdefault(each_candidate, 0)
                 #Increment the count by 1
                 subset_count[each_candidate] += 1
-                #Only for testing                
-                #print(subset_count)
-    
+                
     #Finding the number of the number of transactions
     num_items = float(len(dataset))
     #The list of actual elements which pass the support count condition
@@ -87,7 +73,7 @@ def main():
     #print(dataset)
     dataset = map(set,dataset)
     #print(dataset)
-    L1, support_data = dataSetScanner(dataset,output,0.5)
+    L1, support_data = dataSetScanner(dataset,output,0.3)
     #print(L1)
     #print(support_data)
     
