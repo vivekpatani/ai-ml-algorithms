@@ -1,0 +1,6 @@
+frozenset(['class_unacc']),frozenset(['lug_boot_small']),0.371900826446281
+frozenset(['lug_boot_small']),frozenset(['class_unacc']),0.7812499999999999
+frozenset(['class_unacc']),frozenset(['safety_low']),0.47603305785123967
+frozenset(['safety_low']),frozenset(['class_unacc']),1.0
+frozenset(['class_unacc']),frozenset(['persons_2']),0.47603305785123967
+frozenset(['persons_2']),frozenset(['class_unacc']),1.0

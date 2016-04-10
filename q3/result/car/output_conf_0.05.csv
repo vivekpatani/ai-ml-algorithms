@@ -1,0 +1,697 @@
+frozenset(['doors_4']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['doors_4']),0.25
+frozenset(['maint_low']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['persons_4']),frozenset(['maint_low']),0.25
+frozenset(['doors_3']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['doors_3']),0.25
+frozenset(['maint_med']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['maint_med']),0.25
+frozenset(['persons_4']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['doors_5_more']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['doors_5_more']),0.25
+frozenset(['safety_high']),frozenset(['persons_2']),0.3333333333333333
+frozenset(['persons_2']),frozenset(['safety_high']),0.3333333333333333
+frozenset(['buying_high']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['buying_high']),0.25
+frozenset(['safety_low']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['maint_med']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['persons_more']),frozenset(['maint_med']),0.25
+frozenset(['safety_low']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['doors_2']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['persons_2']),frozenset(['doors_2']),0.25
+frozenset(['safety_low']),frozenset(['persons_more']),0.3333333333333333
+frozenset(['persons_more']),frozenset(['safety_low']),0.3333333333333333
+frozenset(['persons_2']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['buying_high']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['persons_4']),frozenset(['buying_high']),0.25
+frozenset(['safety_high']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['doors_2']),frozenset(['buying_high']),0.25
+frozenset(['buying_high']),frozenset(['doors_2']),0.25
+frozenset(['maint_med']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['safety_high']),frozenset(['maint_med']),0.25
+frozenset(['safety_med']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['doors_3']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['persons_2']),frozenset(['doors_3']),0.25
+frozenset(['persons_4']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['persons_4']),0.3333333333333333
+frozenset(['persons_4']),frozenset(['safety_med']),0.3333333333333333
+frozenset(['safety_high']),frozenset(['persons_4']),0.3333333333333333
+frozenset(['persons_4']),frozenset(['safety_high']),0.3333333333333333
+frozenset(['doors_3']),frozenset(['buying_high']),0.25
+frozenset(['buying_high']),frozenset(['doors_3']),0.25
+frozenset(['class_acc']),frozenset(['buying_high']),0.28125
+frozenset(['buying_high']),frozenset(['class_acc']),0.25
+frozenset(['doors_3']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['safety_high']),frozenset(['doors_3']),0.25
+frozenset(['safety_low']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['doors_2']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['doors_2']),0.25
+frozenset(['doors_3']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['doors_3']),0.25
+frozenset(['safety_med']),frozenset(['persons_more']),0.3333333333333333
+frozenset(['persons_more']),frozenset(['safety_med']),0.3333333333333333
+frozenset(['persons_4']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['persons_2']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['buying_med']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['buying_med']),0.25
+frozenset(['class_unacc']),frozenset(['buying_low']),0.21322314049586777
+frozenset(['buying_low']),frozenset(['class_unacc']),0.5972222222222222
+frozenset(['lug_boot_small']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['persons_2']),frozenset(['safety_low']),0.3333333333333333
+frozenset(['safety_low']),frozenset(['persons_2']),0.3333333333333333
+frozenset(['maint_low']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['maint_low']),0.25
+frozenset(['maint_high']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['maint_high']),0.25
+frozenset(['class_unacc']),frozenset(['lug_boot_med']),0.3239669421487603
+frozenset(['lug_boot_med']),frozenset(['class_unacc']),0.6805555555555556
+frozenset(['class_unacc']),frozenset(['maint_low']),0.2214876033057851
+frozenset(['maint_low']),frozenset(['class_unacc']),0.6203703703703703
+frozenset(['maint_med']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['maint_med']),0.25
+frozenset(['doors_2']),frozenset(['maint_med']),0.25
+frozenset(['maint_med']),frozenset(['doors_2']),0.25
+frozenset(['maint_low']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['maint_low']),0.25
+frozenset(['maint_high']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['maint_high']),0.25
+frozenset(['persons_2']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['doors_3']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['doors_3']),0.25
+frozenset(['doors_2']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['safety_low']),frozenset(['doors_2']),0.25
+frozenset(['class_unacc']),frozenset(['persons_more']),0.26611570247933886
+frozenset(['persons_more']),frozenset(['class_unacc']),0.5590277777777778
+frozenset(['class_acc']),frozenset(['doors_5_more']),0.265625
+frozenset(['doors_5_more']),frozenset(['class_acc']),0.23611111111111113
+frozenset(['class_unacc']),frozenset(['doors_3']),0.24793388429752067
+frozenset(['doors_3']),frozenset(['class_unacc']),0.6944444444444445
+frozenset(['doors_5_more']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['doors_5_more']),0.25
+frozenset(['maint_high']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['maint_high']),0.25
+frozenset(['persons_2']),frozenset(['safety_med']),0.3333333333333333
+frozenset(['safety_med']),frozenset(['persons_2']),0.3333333333333333
+frozenset(['buying_vhigh']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['lug_boot_small']),frozenset(['buying_vhigh']),0.25
+frozenset(['lug_boot_small']),frozenset(['persons_2']),0.3333333333333333
+frozenset(['persons_2']),frozenset(['lug_boot_small']),0.3333333333333333
+frozenset(['persons_more']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['class_acc']),frozenset(['safety_med']),0.46875
+frozenset(['safety_med']),frozenset(['class_acc']),0.31249999999999994
+frozenset(['safety_high']),frozenset(['buying_high']),0.25
+frozenset(['buying_high']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['class_acc']),frozenset(['lug_boot_small']),0.2734375
+frozenset(['lug_boot_small']),frozenset(['class_acc']),0.18229166666666666
+frozenset(['doors_4']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['doors_4']),0.25
+frozenset(['buying_vhigh']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['buying_vhigh']),0.25
+frozenset(['safety_high']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_low']),frozenset(['persons_4']),0.3333333333333333
+frozenset(['persons_4']),frozenset(['safety_low']),0.3333333333333333
+frozenset(['persons_more']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['class_unacc']),frozenset(['safety_high']),0.22892561983471071
+frozenset(['safety_high']),frozenset(['class_unacc']),0.48090277777777773
+frozenset(['doors_3']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['doors_3']),0.25
+frozenset(['persons_more']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['buying_vhigh']),frozenset(['maint_med']),0.25
+frozenset(['maint_med']),frozenset(['buying_vhigh']),0.25
+frozenset(['safety_med']),frozenset(['lug_boot_big']),0.3333333333333333
+frozenset(['lug_boot_big']),frozenset(['safety_med']),0.3333333333333333
+frozenset(['buying_vhigh']),frozenset(['class_unacc']),0.8333333333333333
+frozenset(['class_unacc']),frozenset(['buying_vhigh']),0.29752066115702475
+frozenset(['persons_2']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['safety_high']),frozenset(['persons_more']),0.3333333333333333
+frozenset(['persons_more']),frozenset(['safety_high']),0.3333333333333333
+frozenset(['buying_vhigh']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['buying_vhigh']),0.25
+frozenset(['doors_2']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['doors_2']),0.25
+frozenset(['doors_3']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['doors_3']),0.25
+frozenset(['maint_vhigh']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['maint_vhigh']),0.25
+frozenset(['persons_4']),frozenset(['lug_boot_big']),0.3333333333333333
+frozenset(['lug_boot_big']),frozenset(['persons_4']),0.3333333333333333
+frozenset(['maint_high']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['maint_high']),0.25
+frozenset(['safety_high']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['maint_med']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['maint_med']),0.25
+frozenset(['buying_low']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['buying_low']),0.25
+frozenset(['class_acc']),frozenset(['maint_med']),0.29947916666666663
+frozenset(['maint_med']),frozenset(['class_acc']),0.26620370370370366
+frozenset(['persons_more']),frozenset(['lug_boot_big']),0.3333333333333333
+frozenset(['lug_boot_big']),frozenset(['persons_more']),0.3333333333333333
+frozenset(['buying_high']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['buying_high']),0.25
+frozenset(['doors_3']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['persons_more']),frozenset(['doors_3']),0.25
+frozenset(['buying_high']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['safety_low']),frozenset(['buying_high']),0.25
+frozenset(['safety_med']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['lug_boot_med']),0.3333333333333333
+frozenset(['lug_boot_med']),frozenset(['safety_med']),0.3333333333333333
+frozenset(['persons_4']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['buying_vhigh']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['buying_vhigh']),0.25
+frozenset(['class_acc']),frozenset(['doors_3']),0.2578125
+frozenset(['doors_3']),frozenset(['class_acc']),0.22916666666666669
+frozenset(['lug_boot_small']),frozenset(['buying_high']),0.25
+frozenset(['buying_high']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['doors_2']),frozenset(['class_unacc']),0.7546296296296297
+frozenset(['class_unacc']),frozenset(['doors_2']),0.2694214876033058
+frozenset(['persons_more']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['class_unacc']),frozenset(['lug_boot_big']),0.30413223140495865
+frozenset(['lug_boot_big']),frozenset(['class_unacc']),0.6388888888888888
+frozenset(['doors_3']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['doors_3']),0.25
+frozenset(['maint_med']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['maint_med']),0.25
+frozenset(['doors_2']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['doors_2']),0.25
+frozenset(['buying_vhigh']),frozenset(['doors_2']),0.25
+frozenset(['doors_2']),frozenset(['buying_vhigh']),0.25
+frozenset(['safety_high']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['maint_low']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['maint_low']),0.25
+frozenset(['class_unacc']),frozenset(['maint_vhigh']),0.29752066115702475
+frozenset(['maint_vhigh']),frozenset(['class_unacc']),0.8333333333333333
+frozenset(['persons_2']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['buying_high']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['persons_more']),frozenset(['buying_high']),0.25
+frozenset(['class_unacc']),frozenset(['safety_med']),0.29504132231404956
+frozenset(['safety_med']),frozenset(['class_unacc']),0.6197916666666666
+frozenset(['safety_low']),frozenset(['lug_boot_big']),0.3333333333333333
+frozenset(['lug_boot_big']),frozenset(['safety_low']),0.3333333333333333
+frozenset(['buying_high']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['buying_high']),0.25
+frozenset(['persons_2']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['maint_med']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['lug_boot_small']),frozenset(['maint_med']),0.25
+frozenset(['buying_vhigh']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['persons_4']),frozenset(['buying_vhigh']),0.25
+frozenset(['maint_med']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['persons_4']),frozenset(['maint_med']),0.25
+frozenset(['safety_low']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['maint_vhigh']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['maint_vhigh']),0.25
+frozenset(['persons_2']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['buying_high']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['buying_high']),0.25
+frozenset(['buying_high']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['buying_high']),0.25
+frozenset(['safety_low']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['buying_vhigh']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['buying_vhigh']),0.25
+frozenset(['doors_2']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['safety_high']),frozenset(['doors_2']),0.25
+frozenset(['lug_boot_small']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['lug_boot_small']),frozenset(['persons_more']),0.3333333333333333
+frozenset(['persons_more']),frozenset(['lug_boot_small']),0.3333333333333333
+frozenset(['doors_3']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['persons_4']),frozenset(['doors_3']),0.25
+frozenset(['class_acc']),frozenset(['lug_boot_med']),0.3515625
+frozenset(['lug_boot_med']),frozenset(['class_acc']),0.234375
+frozenset(['safety_med']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['maint_med']),frozenset(['class_unacc']),0.6203703703703703
+frozenset(['class_unacc']),frozenset(['maint_med']),0.2214876033057851
+frozenset(['persons_more']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['doors_4']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['doors_4']),0.25
+frozenset(['buying_high']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['persons_2']),frozenset(['buying_high']),0.25
+frozenset(['safety_high']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['class_acc']),frozenset(['buying_low']),0.23177083333333334
+frozenset(['buying_low']),frozenset(['class_acc']),0.20601851851851855
+frozenset(['class_unacc']),frozenset(['doors_4']),0.24132231404958676
+frozenset(['doors_4']),frozenset(['class_unacc']),0.6759259259259259
+frozenset(['class_acc']),frozenset(['maint_high']),0.2734375
+frozenset(['maint_high']),frozenset(['class_acc']),0.24305555555555555
+frozenset(['doors_3']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['doors_3']),0.25
+frozenset(['class_acc']),frozenset(['persons_4']),0.515625
+frozenset(['persons_4']),frozenset(['class_acc']),0.34375
+frozenset(['class_unacc']),frozenset(['doors_5_more']),0.24132231404958676
+frozenset(['doors_5_more']),frozenset(['class_unacc']),0.6759259259259259
+frozenset(['persons_4']),frozenset(['lug_boot_med']),0.3333333333333333
+frozenset(['lug_boot_med']),frozenset(['persons_4']),0.3333333333333333
+frozenset(['safety_med']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_low']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['maint_med']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['persons_2']),frozenset(['maint_med']),0.25
+frozenset(['class_unacc']),frozenset(['persons_4']),0.2578512396694215
+frozenset(['persons_4']),frozenset(['class_unacc']),0.5416666666666666
+frozenset(['maint_high']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['maint_high']),0.25
+frozenset(['buying_low']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['buying_low']),0.25
+frozenset(['persons_more']),frozenset(['lug_boot_med']),0.3333333333333333
+frozenset(['lug_boot_med']),frozenset(['persons_more']),0.3333333333333333
+frozenset(['maint_med']),frozenset(['doors_3']),0.25
+frozenset(['doors_3']),frozenset(['maint_med']),0.25
+frozenset(['buying_vhigh']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['buying_vhigh']),0.25
+frozenset(['doors_2']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['doors_2']),0.25
+frozenset(['buying_vhigh']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['persons_more']),frozenset(['buying_vhigh']),0.25
+frozenset(['buying_high']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['buying_high']),0.25
+frozenset(['class_acc']),frozenset(['buying_med']),0.29947916666666663
+frozenset(['buying_med']),frozenset(['class_acc']),0.26620370370370366
+frozenset(['safety_high']),frozenset(['lug_boot_med']),0.3333333333333333
+frozenset(['lug_boot_med']),frozenset(['safety_high']),0.3333333333333333
+frozenset(['lug_boot_small']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['buying_vhigh']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['buying_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['maint_vhigh']),0.25
+frozenset(['persons_2']),frozenset(['lug_boot_med']),0.3333333333333333
+frozenset(['lug_boot_med']),frozenset(['persons_2']),0.3333333333333333
+frozenset(['persons_2']),frozenset(['lug_boot_big']),0.3333333333333333
+frozenset(['lug_boot_big']),frozenset(['persons_2']),0.3333333333333333
+frozenset(['buying_vhigh']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['buying_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['maint_vhigh']),0.25
+frozenset(['lug_boot_small']),frozenset(['persons_4']),0.3333333333333333
+frozenset(['persons_4']),frozenset(['lug_boot_small']),0.3333333333333333
+frozenset(['doors_2']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['doors_2']),0.25
+frozenset(['doors_3']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['lug_boot_small']),frozenset(['doors_3']),0.25
+frozenset(['class_acc']),frozenset(['persons_more']),0.484375
+frozenset(['persons_more']),frozenset(['class_acc']),0.32291666666666663
+frozenset(['maint_med']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['safety_low']),frozenset(['maint_med']),0.25
+frozenset(['safety_med']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['buying_high']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['buying_high']),0.25
+frozenset(['safety_low']),frozenset(['lug_boot_med']),0.3333333333333333
+frozenset(['lug_boot_med']),frozenset(['safety_low']),0.3333333333333333
+frozenset(['maint_low']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['maint_low']),0.25
+frozenset(['safety_high']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['lug_boot_small']),frozenset(['safety_med']),0.3333333333333333
+frozenset(['safety_med']),frozenset(['lug_boot_small']),0.3333333333333333
+frozenset(['doors_2']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['persons_more']),frozenset(['doors_2']),0.25
+frozenset(['class_acc']),frozenset(['doors_4']),0.265625
+frozenset(['doors_4']),frozenset(['class_acc']),0.23611111111111113
+frozenset(['safety_high']),frozenset(['lug_boot_small']),0.3333333333333333
+frozenset(['lug_boot_small']),frozenset(['safety_high']),0.3333333333333333
+frozenset(['doors_5_more']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['doors_5_more']),0.25
+frozenset(['maint_med']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['maint_med']),0.25
+frozenset(['class_unacc']),frozenset(['maint_high']),0.25950413223140495
+frozenset(['maint_high']),frozenset(['class_unacc']),0.7268518518518519
+frozenset(['doors_2']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['persons_4']),frozenset(['doors_2']),0.25
+frozenset(['persons_more']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['class_acc']),frozenset(['lug_boot_big']),0.375
+frozenset(['lug_boot_big']),frozenset(['class_acc']),0.25
+frozenset(['buying_high']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['buying_high']),0.25
+frozenset(['safety_low']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['doors_4']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['doors_4']),0.25
+frozenset(['doors_3']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['doors_3']),0.25
+frozenset(['lug_boot_small']),frozenset(['safety_low']),0.3333333333333333
+frozenset(['safety_low']),frozenset(['lug_boot_small']),0.3333333333333333
+frozenset(['buying_vhigh']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['safety_high']),frozenset(['buying_vhigh']),0.25
+frozenset(['persons_4']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['maint_low']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['persons_more']),0.33333333333333337
+frozenset(['persons_more']),frozenset(['maint_low']),0.25
+frozenset(['lug_boot_small']),frozenset(['maint_high']),0.25
+frozenset(['maint_high']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['lug_boot_small']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['class_acc']),frozenset(['safety_high']),0.53125
+frozenset(['safety_high']),frozenset(['class_acc']),0.3541666666666667
+frozenset(['lug_boot_small']),frozenset(['doors_4']),0.25
+frozenset(['doors_4']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['maint_vhigh']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['maint_vhigh']),0.25
+frozenset(['class_unacc']),frozenset(['lug_boot_small']),0.371900826446281
+frozenset(['lug_boot_small']),frozenset(['class_unacc']),0.7812499999999999
+frozenset(['safety_high']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['safety_high']),0.33333333333333337
+frozenset(['buying_vhigh']),frozenset(['doors_3']),0.25
+frozenset(['doors_3']),frozenset(['buying_vhigh']),0.25
+frozenset(['maint_med']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['maint_med']),0.25
+frozenset(['class_unacc']),frozenset(['safety_low']),0.47603305785123967
+frozenset(['safety_low']),frozenset(['class_unacc']),1.0
+frozenset(['doors_2']),frozenset(['maint_low']),0.25
+frozenset(['maint_low']),frozenset(['doors_2']),0.25
+frozenset(['doors_3']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['safety_low']),frozenset(['doors_3']),0.25
+frozenset(['safety_high']),frozenset(['lug_boot_big']),0.3333333333333333
+frozenset(['lug_boot_big']),frozenset(['safety_high']),0.3333333333333333
+frozenset(['class_unacc']),frozenset(['persons_2']),0.47603305785123967
+frozenset(['persons_2']),frozenset(['class_unacc']),1.0
+frozenset(['class_unacc']),frozenset(['buying_med']),0.2214876033057851
+frozenset(['buying_med']),frozenset(['class_unacc']),0.6203703703703703
+frozenset(['doors_5_more']),frozenset(['buying_med']),0.25
+frozenset(['buying_med']),frozenset(['doors_5_more']),0.25
+frozenset(['maint_med']),frozenset(['buying_high']),0.25
+frozenset(['buying_high']),frozenset(['maint_med']),0.25
+frozenset(['class_unacc']),frozenset(['buying_high']),0.2677685950413223
+frozenset(['buying_high']),frozenset(['class_unacc']),0.75
+frozenset(['buying_med']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['buying_med']),0.25
+frozenset(['doors_2']),frozenset(['safety_med']),0.33333333333333337
+frozenset(['safety_med']),frozenset(['doors_2']),0.25
+frozenset(['buying_vhigh']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['buying_vhigh']),0.25
+frozenset(['doors_2']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['lug_boot_small']),frozenset(['doors_2']),0.25
+frozenset(['maint_vhigh']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['maint_vhigh']),0.25
+frozenset(['buying_vhigh']),frozenset(['persons_2']),0.33333333333333337
+frozenset(['persons_2']),frozenset(['buying_vhigh']),0.25
+frozenset(['maint_high']),frozenset(['lug_boot_med']),0.33333333333333337
+frozenset(['lug_boot_med']),frozenset(['maint_high']),0.25
+frozenset(['class_acc']),frozenset(['maint_low']),0.23958333333333331
+frozenset(['maint_low']),frozenset(['class_acc']),0.21296296296296297
+frozenset(['maint_med']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['maint_med']),0.25
+frozenset(['buying_vhigh']),frozenset(['safety_low']),0.33333333333333337
+frozenset(['safety_low']),frozenset(['buying_vhigh']),0.25
+frozenset(['persons_4']),frozenset(['doors_5_more']),0.25
+frozenset(['doors_5_more']),frozenset(['persons_4']),0.33333333333333337
+frozenset(['maint_low']),frozenset(['buying_low']),0.25
+frozenset(['buying_low']),frozenset(['maint_low']),0.25
+frozenset(['lug_boot_small']),frozenset(['maint_vhigh']),0.25
+frozenset(['maint_vhigh']),frozenset(['lug_boot_small']),0.33333333333333337
+frozenset(['doors_2']),frozenset(['lug_boot_big']),0.33333333333333337
+frozenset(['lug_boot_big']),frozenset(['doors_2']),0.25
+frozenset(['class_unacc']),"frozenset(['buying_high', 'persons_2'])",0.11900826446280992
+frozenset(['buying_high']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['persons_2']),"frozenset(['buying_high', 'class_unacc'])",0.25
+frozenset(['class_unacc']),"frozenset(['doors_5_more', 'safety_low'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['doors_5_more', 'class_unacc'])",0.25
+frozenset(['doors_5_more']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['lug_boot_small']),"frozenset(['persons_4', 'class_unacc'])",0.20833333333333334
+frozenset(['persons_4']),"frozenset(['lug_boot_small', 'class_unacc'])",0.20833333333333334
+frozenset(['buying_vhigh']),"frozenset(['maint_high', 'class_unacc'])",0.25
+frozenset(['maint_high']),"frozenset(['class_unacc', 'buying_vhigh'])",0.25
+frozenset(['class_unacc']),"frozenset(['lug_boot_med', 'safety_low'])",0.1586776859504132
+frozenset(['safety_low']),"frozenset(['lug_boot_med', 'class_unacc'])",0.3333333333333333
+frozenset(['lug_boot_med']),"frozenset(['safety_low', 'class_unacc'])",0.3333333333333333
+frozenset(['doors_2']),"frozenset(['lug_boot_big', 'class_unacc'])",0.21296296296296297
+frozenset(['lug_boot_big']),"frozenset(['class_unacc', 'doors_2'])",0.1597222222222222
+frozenset(['doors_4']),"frozenset(['lug_boot_big', 'class_unacc'])",0.21296296296296297
+frozenset(['lug_boot_big']),"frozenset(['doors_4', 'class_unacc'])",0.1597222222222222
+frozenset(['doors_5_more']),"frozenset(['lug_boot_med', 'class_unacc'])",0.21296296296296297
+frozenset(['lug_boot_med']),"frozenset(['doors_5_more', 'class_unacc'])",0.1597222222222222
+frozenset(['class_unacc']),"frozenset(['doors_5_more', 'persons_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['doors_5_more', 'class_unacc'])",0.25
+frozenset(['doors_5_more']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['safety_high']),"frozenset(['lug_boot_med', 'class_unacc'])",0.1527777777777778
+frozenset(['lug_boot_med']),"frozenset(['class_unacc', 'safety_high'])",0.1527777777777778
+frozenset(['doors_3']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['safety_low', 'doors_3'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['doors_3', 'class_unacc'])",0.25
+frozenset(['doors_3']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['persons_2', 'doors_3'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['doors_3', 'class_unacc'])",0.25
+frozenset(['class_unacc']),"frozenset(['persons_more', 'lug_boot_small'])",0.1140495867768595
+frozenset(['lug_boot_small']),"frozenset(['persons_more', 'class_unacc'])",0.23958333333333331
+frozenset(['persons_more']),"frozenset(['lug_boot_small', 'class_unacc'])",0.23958333333333331
+frozenset(['buying_vhigh']),"frozenset(['lug_boot_small', 'class_unacc'])",0.30092592592592593
+frozenset(['class_unacc']),"frozenset(['lug_boot_small', 'buying_vhigh'])",0.10743801652892561
+frozenset(['lug_boot_small']),"frozenset(['class_unacc', 'buying_vhigh'])",0.22569444444444442
+frozenset(['buying_vhigh']),"frozenset(['lug_boot_big', 'class_unacc'])",0.25925925925925924
+frozenset(['lug_boot_big']),"frozenset(['class_unacc', 'buying_vhigh'])",0.19444444444444445
+frozenset(['persons_more']),"frozenset(['lug_boot_big', 'class_unacc'])",0.1527777777777778
+frozenset(['lug_boot_big']),"frozenset(['persons_more', 'class_unacc'])",0.1527777777777778
+frozenset(['lug_boot_small']),"frozenset(['doors_5_more', 'class_unacc'])",0.1875
+frozenset(['doors_5_more']),"frozenset(['lug_boot_small', 'class_unacc'])",0.25
+frozenset(['buying_high']),"frozenset(['persons_4', 'class_unacc'])",0.20833333333333331
+frozenset(['persons_4']),"frozenset(['buying_high', 'class_unacc'])",0.15624999999999997
+frozenset(['maint_med']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['persons_2', 'maint_med'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['class_unacc', 'maint_med'])",0.25
+frozenset(['class_unacc']),"frozenset(['buying_high', 'lug_boot_small'])",0.10165289256198347
+frozenset(['lug_boot_small']),"frozenset(['buying_high', 'class_unacc'])",0.21354166666666666
+frozenset(['buying_high']),"frozenset(['lug_boot_small', 'class_unacc'])",0.2847222222222222
+frozenset(['persons_4']),"frozenset(['lug_boot_med', 'class_unacc'])",0.18055555555555555
+frozenset(['lug_boot_med']),"frozenset(['persons_4', 'class_unacc'])",0.18055555555555555
+frozenset(['class_unacc']),"frozenset(['buying_med', 'persons_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['buying_med', 'class_unacc'])",0.25
+frozenset(['buying_med']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['buying_vhigh']),"frozenset(['class_unacc', 'safety_high'])",0.22685185185185186
+frozenset(['safety_high']),"frozenset(['class_unacc', 'buying_vhigh'])",0.1701388888888889
+frozenset(['buying_high']),"frozenset(['safety_med', 'class_unacc'])",0.24305555555555555
+frozenset(['safety_med']),"frozenset(['buying_high', 'class_unacc'])",0.18229166666666666
+frozenset(['class_acc']),"frozenset(['persons_4', 'safety_med'])",0.234375
+frozenset(['safety_med']),"frozenset(['persons_4', 'class_acc'])",0.15624999999999997
+frozenset(['persons_4']),"frozenset(['safety_med', 'class_acc'])",0.15624999999999997
+frozenset(['buying_vhigh']),"frozenset(['class_unacc', 'doors_2'])",0.2175925925925926
+frozenset(['doors_2']),"frozenset(['class_unacc', 'buying_vhigh'])",0.2175925925925926
+frozenset(['class_unacc']),"frozenset(['safety_low', 'persons_2'])",0.1586776859504132
+frozenset(['persons_2']),"frozenset(['safety_low', 'class_unacc'])",0.3333333333333333
+frozenset(['safety_low']),"frozenset(['persons_2', 'class_unacc'])",0.3333333333333333
+frozenset(['maint_high']),"frozenset(['lug_boot_med', 'class_unacc'])",0.23611111111111113
+frozenset(['lug_boot_med']),"frozenset(['maint_high', 'class_unacc'])",0.17708333333333334
+frozenset(['lug_boot_small']),"frozenset(['maint_low', 'class_unacc'])",0.17708333333333334
+frozenset(['maint_low']),"frozenset(['lug_boot_small', 'class_unacc'])",0.23611111111111113
+frozenset(['lug_boot_small']),"frozenset(['buying_low', 'class_unacc'])",0.16493055555555555
+frozenset(['buying_low']),"frozenset(['lug_boot_small', 'class_unacc'])",0.2199074074074074
+frozenset(['buying_high']),"frozenset(['lug_boot_big', 'class_unacc'])",0.22222222222222224
+frozenset(['lug_boot_big']),"frozenset(['buying_high', 'class_unacc'])",0.16666666666666666
+frozenset(['class_unacc']),"frozenset(['safety_med', 'lug_boot_small'])",0.12975206611570247
+frozenset(['lug_boot_small']),"frozenset(['safety_med', 'class_unacc'])",0.2725694444444444
+frozenset(['safety_med']),"frozenset(['lug_boot_small', 'class_unacc'])",0.2725694444444444
+frozenset(['class_unacc']),"frozenset(['maint_vhigh', 'persons_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['maint_vhigh', 'class_unacc'])",0.25
+frozenset(['maint_vhigh']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['persons_2', 'lug_boot_small'])",0.1586776859504132
+frozenset(['lug_boot_small']),"frozenset(['persons_2', 'class_unacc'])",0.3333333333333333
+frozenset(['persons_2']),"frozenset(['lug_boot_small', 'class_unacc'])",0.3333333333333333
+frozenset(['doors_2']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['persons_2', 'doors_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['class_unacc', 'doors_2'])",0.25
+frozenset(['maint_vhigh']),"frozenset(['lug_boot_med', 'class_unacc'])",0.2731481481481482
+frozenset(['lug_boot_med']),"frozenset(['maint_vhigh', 'class_unacc'])",0.2048611111111111
+frozenset(['buying_vhigh']),"frozenset(['class_unacc', 'doors_3'])",0.20833333333333331
+frozenset(['doors_3']),"frozenset(['class_unacc', 'buying_vhigh'])",0.20833333333333331
+frozenset(['maint_med']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['safety_low', 'maint_med'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['class_unacc', 'maint_med'])",0.25
+frozenset(['persons_more']),"frozenset(['maint_vhigh', 'class_unacc'])",0.1875
+frozenset(['maint_vhigh']),"frozenset(['persons_more', 'class_unacc'])",0.25
+frozenset(['lug_boot_small']),"frozenset(['class_unacc', 'safety_high'])",0.1753472222222222
+frozenset(['safety_high']),"frozenset(['lug_boot_small', 'class_unacc'])",0.1753472222222222
+frozenset(['lug_boot_small']),"frozenset(['maint_high', 'class_unacc'])",0.2013888888888889
+frozenset(['maint_high']),"frozenset(['lug_boot_small', 'class_unacc'])",0.26851851851851855
+frozenset(['class_unacc']),"frozenset(['buying_low', 'persons_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['buying_low', 'class_unacc'])",0.25
+frozenset(['buying_low']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_acc']),"frozenset(['persons_more', 'safety_high'])",0.25
+frozenset(['safety_high']),"frozenset(['persons_more', 'class_acc'])",0.16666666666666666
+frozenset(['persons_more']),"frozenset(['safety_high', 'class_acc'])",0.16666666666666666
+frozenset(['doors_2']),"frozenset(['lug_boot_med', 'class_unacc'])",0.25
+frozenset(['lug_boot_med']),"frozenset(['class_unacc', 'doors_2'])",0.1875
+frozenset(['buying_high']),"frozenset(['maint_vhigh', 'class_unacc'])",0.25
+frozenset(['maint_vhigh']),"frozenset(['buying_high', 'class_unacc'])",0.25
+frozenset(['buying_vhigh']),"frozenset(['doors_5_more', 'class_unacc'])",0.20370370370370372
+frozenset(['doors_5_more']),"frozenset(['class_unacc', 'buying_vhigh'])",0.20370370370370372
+frozenset(['doors_2']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['safety_low', 'doors_2'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['class_unacc', 'doors_2'])",0.25
+frozenset(['safety_high']),"frozenset(['lug_boot_big', 'class_unacc'])",0.1527777777777778
+frozenset(['lug_boot_big']),"frozenset(['class_unacc', 'safety_high'])",0.1527777777777778
+frozenset(['persons_4']),"frozenset(['maint_vhigh', 'class_unacc'])",0.1875
+frozenset(['maint_vhigh']),"frozenset(['persons_4', 'class_unacc'])",0.25
+frozenset(['doors_3']),"frozenset(['lug_boot_big', 'class_unacc'])",0.21296296296296297
+frozenset(['lug_boot_big']),"frozenset(['doors_3', 'class_unacc'])",0.1597222222222222
+frozenset(['class_unacc']),"frozenset(['safety_low', 'buying_high'])",0.11900826446280992
+frozenset(['buying_high']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['safety_low']),"frozenset(['buying_high', 'class_unacc'])",0.25
+frozenset(['maint_vhigh']),"frozenset(['doors_4', 'class_unacc'])",0.20370370370370372
+frozenset(['doors_4']),"frozenset(['maint_vhigh', 'class_unacc'])",0.20370370370370372
+frozenset(['class_unacc']),"frozenset(['persons_4', 'safety_low'])",0.1586776859504132
+frozenset(['safety_low']),"frozenset(['persons_4', 'class_unacc'])",0.3333333333333333
+frozenset(['persons_4']),"frozenset(['safety_low', 'class_unacc'])",0.3333333333333333
+frozenset(['lug_boot_small']),"frozenset(['doors_3', 'class_unacc'])",0.1875
+frozenset(['doors_3']),"frozenset(['lug_boot_small', 'class_unacc'])",0.25
+frozenset(['buying_vhigh']),"frozenset(['lug_boot_med', 'class_unacc'])",0.2731481481481482
+frozenset(['lug_boot_med']),"frozenset(['class_unacc', 'buying_vhigh'])",0.2048611111111111
+frozenset(['doors_2']),"frozenset(['lug_boot_small', 'class_unacc'])",0.29166666666666663
+frozenset(['class_unacc']),"frozenset(['lug_boot_small', 'doors_2'])",0.10413223140495867
+frozenset(['lug_boot_small']),"frozenset(['class_unacc', 'doors_2'])",0.21874999999999997
+frozenset(['doors_3']),"frozenset(['maint_vhigh', 'class_unacc'])",0.20833333333333331
+frozenset(['maint_vhigh']),"frozenset(['doors_3', 'class_unacc'])",0.20833333333333331
+frozenset(['class_unacc']),"frozenset(['safety_med', 'persons_2'])",0.1586776859504132
+frozenset(['persons_2']),"frozenset(['safety_med', 'class_unacc'])",0.3333333333333333
+frozenset(['safety_med']),"frozenset(['persons_2', 'class_unacc'])",0.3333333333333333
+frozenset(['doors_2']),"frozenset(['persons_more', 'class_unacc'])",0.23148148148148148
+frozenset(['persons_more']),"frozenset(['class_unacc', 'doors_2'])",0.1736111111111111
+frozenset(['safety_med']),"frozenset(['maint_vhigh', 'class_unacc'])",0.2048611111111111
+frozenset(['maint_vhigh']),"frozenset(['safety_med', 'class_unacc'])",0.2731481481481482
+frozenset(['class_unacc']),"frozenset(['lug_boot_med', 'persons_2'])",0.1586776859504132
+frozenset(['persons_2']),"frozenset(['lug_boot_med', 'class_unacc'])",0.3333333333333333
+frozenset(['lug_boot_med']),"frozenset(['persons_2', 'class_unacc'])",0.3333333333333333
+frozenset(['persons_more']),"frozenset(['lug_boot_med', 'class_unacc'])",0.16666666666666666
+frozenset(['lug_boot_med']),"frozenset(['persons_more', 'class_unacc'])",0.16666666666666666
+frozenset(['class_acc']),"frozenset(['persons_more', 'safety_med'])",0.234375
+frozenset(['safety_med']),"frozenset(['persons_more', 'class_acc'])",0.15624999999999997
+frozenset(['persons_more']),"frozenset(['safety_med', 'class_acc'])",0.15624999999999997
+frozenset(['class_unacc']),"frozenset(['buying_low', 'safety_low'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['buying_low', 'class_unacc'])",0.25
+frozenset(['buying_low']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['buying_vhigh']),"frozenset(['doors_4', 'class_unacc'])",0.20370370370370372
+frozenset(['doors_4']),"frozenset(['class_unacc', 'buying_vhigh'])",0.20370370370370372
+frozenset(['maint_high']),"frozenset(['lug_boot_big', 'class_unacc'])",0.22222222222222224
+frozenset(['lug_boot_big']),"frozenset(['maint_high', 'class_unacc'])",0.16666666666666666
+frozenset(['maint_vhigh']),"frozenset(['doors_5_more', 'class_unacc'])",0.20370370370370372
+frozenset(['doors_5_more']),"frozenset(['maint_vhigh', 'class_unacc'])",0.20370370370370372
+frozenset(['doors_3']),"frozenset(['safety_med', 'class_unacc'])",0.20833333333333331
+frozenset(['safety_med']),"frozenset(['doors_3', 'class_unacc'])",0.15624999999999997
+frozenset(['doors_2']),"frozenset(['safety_med', 'class_unacc'])",0.23842592592592593
+frozenset(['safety_med']),"frozenset(['class_unacc', 'doors_2'])",0.17881944444444445
+frozenset(['lug_boot_small']),"frozenset(['buying_med', 'class_unacc'])",0.17708333333333334
+frozenset(['buying_med']),"frozenset(['lug_boot_small', 'class_unacc'])",0.23611111111111113
+frozenset(['doors_2']),"frozenset(['buying_high', 'class_unacc'])",0.2013888888888889
+frozenset(['buying_high']),"frozenset(['class_unacc', 'doors_2'])",0.2013888888888889
+frozenset(['safety_med']),"frozenset(['lug_boot_big', 'class_unacc'])",0.1527777777777778
+frozenset(['lug_boot_big']),"frozenset(['safety_med', 'class_unacc'])",0.1527777777777778
+frozenset(['maint_vhigh']),"frozenset(['lug_boot_big', 'class_unacc'])",0.25925925925925924
+frozenset(['lug_boot_big']),"frozenset(['maint_vhigh', 'class_unacc'])",0.19444444444444445
+frozenset(['class_unacc']),"frozenset(['lug_boot_big', 'persons_2'])",0.1586776859504132
+frozenset(['persons_2']),"frozenset(['lug_boot_big', 'class_unacc'])",0.3333333333333333
+frozenset(['lug_boot_big']),"frozenset(['persons_2', 'class_unacc'])",0.3333333333333333
+frozenset(['class_unacc']),"frozenset(['maint_low', 'safety_low'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['maint_low', 'class_unacc'])",0.25
+frozenset(['maint_low']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['maint_high', 'safety_low'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['maint_high', 'class_unacc'])",0.25
+frozenset(['maint_high']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['lug_boot_big', 'safety_low'])",0.1586776859504132
+frozenset(['safety_low']),"frozenset(['lug_boot_big', 'class_unacc'])",0.3333333333333333
+frozenset(['lug_boot_big']),"frozenset(['safety_low', 'class_unacc'])",0.3333333333333333
+frozenset(['buying_vhigh']),"frozenset(['safety_med', 'class_unacc'])",0.2731481481481482
+frozenset(['safety_med']),"frozenset(['class_unacc', 'buying_vhigh'])",0.2048611111111111
+frozenset(['lug_boot_small']),"frozenset(['doors_4', 'class_unacc'])",0.1875
+frozenset(['doors_4']),"frozenset(['lug_boot_small', 'class_unacc'])",0.25
+frozenset(['doors_2']),"frozenset(['maint_vhigh', 'class_unacc'])",0.2175925925925926
+frozenset(['maint_vhigh']),"frozenset(['class_unacc', 'doors_2'])",0.2175925925925926
+frozenset(['class_unacc']),"frozenset(['maint_vhigh', 'lug_boot_small'])",0.10743801652892561
+frozenset(['lug_boot_small']),"frozenset(['maint_vhigh', 'class_unacc'])",0.22569444444444442
+frozenset(['maint_vhigh']),"frozenset(['lug_boot_small', 'class_unacc'])",0.30092592592592593
+frozenset(['class_unacc']),"frozenset(['maint_low', 'persons_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['maint_low', 'class_unacc'])",0.25
+frozenset(['maint_low']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['doors_4', 'safety_low'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['doors_4', 'class_unacc'])",0.25
+frozenset(['doors_4']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['safety_high']),"frozenset(['maint_vhigh', 'class_unacc'])",0.1701388888888889
+frozenset(['maint_vhigh']),"frozenset(['class_unacc', 'safety_high'])",0.22685185185185186
+frozenset(['buying_vhigh']),"frozenset(['maint_vhigh', 'class_unacc'])",0.25
+frozenset(['maint_vhigh']),"frozenset(['class_unacc', 'buying_vhigh'])",0.25
+frozenset(['doors_3']),"frozenset(['lug_boot_med', 'class_unacc'])",0.23148148148148148
+frozenset(['lug_boot_med']),"frozenset(['doors_3', 'class_unacc'])",0.1736111111111111
+frozenset(['buying_vhigh']),"frozenset(['persons_more', 'class_unacc'])",0.25
+frozenset(['persons_more']),"frozenset(['class_unacc', 'buying_vhigh'])",0.1875
+frozenset(['doors_4']),"frozenset(['lug_boot_med', 'class_unacc'])",0.21296296296296297
+frozenset(['lug_boot_med']),"frozenset(['doors_4', 'class_unacc'])",0.1597222222222222
+frozenset(['doors_5_more']),"frozenset(['lug_boot_big', 'class_unacc'])",0.21296296296296297
+frozenset(['lug_boot_big']),"frozenset(['doors_5_more', 'class_unacc'])",0.1597222222222222
+frozenset(['maint_med']),"frozenset(['lug_boot_small', 'class_unacc'])",0.23611111111111113
+frozenset(['lug_boot_small']),"frozenset(['class_unacc', 'maint_med'])",0.17708333333333334
+frozenset(['class_unacc']),"frozenset(['doors_4', 'persons_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['doors_4', 'class_unacc'])",0.25
+frozenset(['doors_4']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['buying_vhigh']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['persons_2', 'buying_vhigh'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['class_unacc', 'buying_vhigh'])",0.25
+frozenset(['class_acc']),"frozenset(['persons_4', 'safety_high'])",0.28125
+frozenset(['safety_high']),"frozenset(['persons_4', 'class_acc'])",0.1875
+frozenset(['persons_4']),"frozenset(['safety_high', 'class_acc'])",0.1875
+frozenset(['class_unacc']),"frozenset(['buying_med', 'safety_low'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['buying_med', 'class_unacc'])",0.25
+frozenset(['buying_med']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['safety_med']),"frozenset(['maint_high', 'class_unacc'])",0.16493055555555555
+frozenset(['maint_high']),"frozenset(['safety_med', 'class_unacc'])",0.2199074074074074
+frozenset(['buying_vhigh']),"frozenset(['persons_4', 'class_unacc'])",0.25
+frozenset(['persons_4']),"frozenset(['class_unacc', 'buying_vhigh'])",0.1875
+frozenset(['buying_high']),"frozenset(['lug_boot_med', 'class_unacc'])",0.24305555555555555
+frozenset(['lug_boot_med']),"frozenset(['buying_high', 'class_unacc'])",0.18229166666666666
+frozenset(['buying_vhigh']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['safety_low', 'buying_vhigh'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['class_unacc', 'buying_vhigh'])",0.25
+frozenset(['persons_4']),"frozenset(['lug_boot_big', 'class_unacc'])",0.1527777777777778
+frozenset(['lug_boot_big']),"frozenset(['persons_4', 'class_unacc'])",0.1527777777777778
+frozenset(['safety_med']),"frozenset(['lug_boot_med', 'class_unacc'])",0.19444444444444445
+frozenset(['lug_boot_med']),"frozenset(['safety_med', 'class_unacc'])",0.19444444444444445
+frozenset(['class_unacc']),"frozenset(['maint_high', 'persons_2'])",0.11900826446280992
+frozenset(['persons_2']),"frozenset(['maint_high', 'class_unacc'])",0.25
+frozenset(['maint_high']),"frozenset(['persons_2', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['maint_vhigh', 'safety_low'])",0.11900826446280992
+frozenset(['safety_low']),"frozenset(['maint_vhigh', 'class_unacc'])",0.25
+frozenset(['maint_vhigh']),"frozenset(['safety_low', 'class_unacc'])",0.33333333333333337
+frozenset(['class_unacc']),"frozenset(['safety_low', 'lug_boot_small'])",0.1586776859504132
+frozenset(['lug_boot_small']),"frozenset(['safety_low', 'class_unacc'])",0.3333333333333333
+frozenset(['safety_low']),"frozenset(['lug_boot_small', 'class_unacc'])",0.3333333333333333
+frozenset(['class_unacc']),"frozenset(['persons_more', 'safety_low'])",0.1586776859504132
+frozenset(['safety_low']),"frozenset(['persons_more', 'class_unacc'])",0.3333333333333333
+frozenset(['persons_more']),"frozenset(['safety_low', 'class_unacc'])",0.3333333333333333
+frozenset(['class_unacc']),"frozenset(['persons_2', 'safety_high'])",0.1586776859504132
+frozenset(['safety_high']),"frozenset(['persons_2', 'class_unacc'])",0.3333333333333333
+frozenset(['persons_2']),"frozenset(['class_unacc', 'safety_high'])",0.3333333333333333
+frozenset(['buying_high']),"frozenset(['persons_more', 'class_unacc'])",0.20833333333333331
+frozenset(['persons_more']),"frozenset(['buying_high', 'class_unacc'])",0.15624999999999997

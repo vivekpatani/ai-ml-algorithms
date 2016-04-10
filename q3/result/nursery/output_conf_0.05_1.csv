@@ -1,0 +1,1518 @@
+frozenset(['has_nurs_proper']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['has_nurs_critical']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['parents_great_pret']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['class_priority']),0.3506944444444445
+frozenset(['class_priority']),frozenset(['social_non_prob']),0.35513361462728554
+frozenset(['social_non_prob']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['has_nurs_proper']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['form_incomplete']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['form_incomplete']),0.25
+frozenset(['children_more']),frozenset(['class_priority']),0.37453703703703706
+frozenset(['class_priority']),frozenset(['children_more']),0.3792780121894046
+frozenset(['children_more']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['children_more']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['has_nurs_critical']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['form_complete']),0.25
+frozenset(['health_priority']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['has_nurs_proper']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['spec_prior']),frozenset(['housing_less_conv']),0.3976261127596439
+frozenset(['housing_less_conv']),frozenset(['spec_prior']),0.37222222222222223
+frozenset(['housing_conv']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['has_nurs_critical']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['parents_great_pret']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['form_foster']),0.25
+frozenset(['spec_prior']),frozenset(['children_3']),0.2809099901088032
+frozenset(['children_3']),frozenset(['spec_prior']),0.3506172839506173
+frozenset(['health_priority']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['form_completed']),frozenset(['spec_prior']),0.32469135802469135
+frozenset(['spec_prior']),frozenset(['form_completed']),0.2601384767556874
+frozenset(['parents_usual']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['form_incomplete']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['form_incomplete']),0.25
+frozenset(['parents_great_pret']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['has_nurs_proper']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['social_slightly_prob']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['class_priority']),frozenset(['parents_pretentious']),0.34786685419596813
+frozenset(['parents_pretentious']),frozenset(['class_priority']),0.3435185185185185
+frozenset(['form_foster']),frozenset(['class_priority']),0.37222222222222223
+frozenset(['class_priority']),frozenset(['form_foster']),0.28270042194092826
+frozenset(['parents_usual']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['children_3']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['children_3']),0.25
+frozenset(['children_more']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['children_more']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['form_foster']),0.25
+frozenset(['has_nurs_very_crit']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['form_foster']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['form_foster']),0.25
+frozenset(['social_slightly_prob']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['has_nurs_critical']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['health_not_recom']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['has_nurs_critical']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['form_complete']),0.25
+frozenset(['health_not_recom']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['class_priority']),frozenset(['parents_usual']),0.45100796999531173
+frozenset(['parents_usual']),frozenset(['class_priority']),0.44537037037037036
+frozenset(['class_priority']),frozenset(['children_1']),0.2559774964838256
+frozenset(['children_1']),frozenset(['class_priority']),0.3370370370370371
+frozenset(['parents_usual']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['class_priority']),frozenset(['children_3']),0.23066104078762303
+frozenset(['children_3']),frozenset(['class_priority']),0.3037037037037037
+frozenset(['social_problematic']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['children_more']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['children_more']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['children_more']),0.3333333333333333
+frozenset(['children_more']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['class_priority']),frozenset(['finance_conv']),0.4739803094233474
+frozenset(['finance_conv']),frozenset(['class_priority']),0.31203703703703706
+frozenset(['health_recommend']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['children_more']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_very_crit']),frozenset(['children_more']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['housing_critical']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['housing_critical']),0.5
+frozenset(['social_slightly_prob']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['has_nurs_very_crit']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['health_priority']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_very_crit']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['children_1']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['children_1']),0.25
+frozenset(['form_completed']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['form_completed']),0.25
+frozenset(['housing_less_conv']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['form_complete']),0.25
+frozenset(['children_more']),frozenset(['spec_prior']),0.24351851851851852
+frozenset(['spec_prior']),frozenset(['children_more']),0.2601384767556874
+frozenset(['housing_critical']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['housing_critical']),0.5
+frozenset(['health_recommend']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['spec_prior']),0.2924382716049383
+frozenset(['spec_prior']),frozenset(['has_nurs_improper']),0.18743818001978238
+frozenset(['form_complete']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['form_complete']),0.25
+frozenset(['finance_conv']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['finance_conv']),0.5
+frozenset(['social_slightly_prob']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['has_nurs_proper']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['housing_critical']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['housing_critical']),0.5
+frozenset(['health_recommend']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['form_foster']),0.25
+frozenset(['housing_conv']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['children_more']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['children_more']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['has_nurs_proper']),frozenset(['class_priority']),0.5185185185185185
+frozenset(['class_priority']),frozenset(['has_nurs_proper']),0.31504922644163147
+frozenset(['has_nurs_critical']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['children_more']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['children_more']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['has_nurs_proper']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['social_non_prob']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['has_nurs_critical']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['parents_usual']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['spec_prior']),0.29876543209876544
+frozenset(['spec_prior']),frozenset(['form_complete']),0.2393669634025717
+frozenset(['finance_conv']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['finance_conv']),0.5
+frozenset(['class_priority']),frozenset(['form_complete']),0.2559774964838256
+frozenset(['form_complete']),frozenset(['class_priority']),0.3370370370370371
+frozenset(['health_recommend']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['form_foster']),0.25
+frozenset(['form_incomplete']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['form_incomplete']),0.25
+frozenset(['form_foster']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['form_foster']),0.25
+frozenset(['parents_great_pret']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['children_more']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['children_more']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['spec_prior']),0.2777777777777778
+frozenset(['spec_prior']),frozenset(['finance_inconv']),0.29673590504451036
+frozenset(['form_complete']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['form_complete']),0.25
+frozenset(['health_priority']),frozenset(['health_not_recom']),1.0
+frozenset(['health_not_recom']),frozenset(['health_priority']),1.0
+frozenset(['parents_great_pret']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['children_1']),frozenset(['spec_prior']),0.29876543209876544
+frozenset(['spec_prior']),frozenset(['children_1']),0.2393669634025717
+frozenset(['social_non_prob']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_very_crit']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['has_nurs_critical']),frozenset(['spec_prior']),0.4876543209876544
+frozenset(['spec_prior']),frozenset(['has_nurs_critical']),0.3125618199802176
+frozenset(['health_priority']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['class_priority']),0.3487654320987654
+frozenset(['class_priority']),frozenset(['has_nurs_improper']),0.21190811064228784
+frozenset(['children_more']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['children_more']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['spec_prior']),0.5708333333333333
+frozenset(['spec_prior']),frozenset(['health_recommend']),0.6097922848664689
+frozenset(['social_problematic']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['children_1']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['children_1']),0.25
+frozenset(['parents_pretentious']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['form_complete']),0.25
+frozenset(['health_not_recom']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['children_more']),0.3333333333333333
+frozenset(['children_more']),frozenset(['form_foster']),0.25
+frozenset(['has_nurs_very_crit']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['children_more']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['children_more']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['form_foster']),0.25
+frozenset(['children_more']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['children_more']),0.3333333333333333
+frozenset(['children_1']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['children_1']),0.25
+frozenset(['housing_conv']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['spec_prior']),0.24814814814814815
+frozenset(['spec_prior']),frozenset(['form_foster']),0.19881305637982194
+frozenset(['health_recommend']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['spec_prior']),0.46805555555555556
+frozenset(['spec_prior']),frozenset(['parents_great_pret']),0.5
+frozenset(['has_nurs_critical']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['health_recommend']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['children_more']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['children_more']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['form_completed']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['form_completed']),0.25
+frozenset(['finance_conv']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['finance_conv']),0.5
+frozenset(['children_more']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['children_more']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['has_nurs_very_crit']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['housing_critical']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['housing_critical']),0.5
+frozenset(['social_slightly_prob']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['form_foster']),0.25
+frozenset(['housing_conv']),frozenset(['spec_prior']),0.32037037037037036
+frozenset(['spec_prior']),frozenset(['housing_conv']),0.34223541048466866
+frozenset(['social_non_prob']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_very_crit']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['form_complete']),0.25
+frozenset(['housing_conv']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['children_more']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['children_more']),0.3333333333333333
+frozenset(['finance_conv']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['finance_conv']),0.5
+frozenset(['health_priority']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['housing_critical']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['housing_critical']),0.5
+frozenset(['social_problematic']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['children_more']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['has_nurs_critical']),frozenset(['children_more']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['form_foster']),0.25
+frozenset(['has_nurs_very_crit']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['housing_conv']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['children_more']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['children_more']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['children_1']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['children_1']),0.25
+frozenset(['has_nurs_critical']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['finance_inconv']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['class_priority']),frozenset(['has_nurs_less_proper']),0.31504922644163147
+frozenset(['has_nurs_less_proper']),frozenset(['class_priority']),0.5185185185185185
+frozenset(['social_slightly_prob']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['form_complete']),0.25
+frozenset(['social_slightly_prob']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['children_more']),0.3333333333333333
+frozenset(['children_more']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['form_foster']),0.25
+frozenset(['class_priority']),frozenset(['housing_less_conv']),0.293483356774496
+frozenset(['housing_less_conv']),frozenset(['class_priority']),0.2898148148148148
+frozenset(['finance_inconv']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['has_nurs_critical']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['has_nurs_critical']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['form_foster']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['form_foster']),0.25
+frozenset(['health_recommend']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_very_crit']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['form_foster']),0.25
+frozenset(['social_non_prob']),frozenset(['spec_prior']),0.2777777777777778
+frozenset(['spec_prior']),frozenset(['social_non_prob']),0.29673590504451036
+frozenset(['social_slightly_prob']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['spec_prior']),0.17546296296296296
+frozenset(['spec_prior']),frozenset(['parents_usual']),0.18743818001978238
+frozenset(['form_foster']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['form_foster']),0.25
+frozenset(['housing_conv']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['children_more']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['children_more']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['has_nurs_very_crit']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['spec_prior']),frozenset(['children_2']),0.2809099901088032
+frozenset(['children_2']),frozenset(['spec_prior']),0.3506172839506173
+frozenset(['housing_conv']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['children_more']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['children_more']),0.3333333333333333
+frozenset(['class_priority']),frozenset(['parents_great_pret']),0.2011251758087201
+frozenset(['parents_great_pret']),frozenset(['class_priority']),0.19861111111111113
+frozenset(['form_foster']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['form_foster']),0.25
+frozenset(['finance_conv']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['finance_conv']),0.5
+frozenset(['has_nurs_improper']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_very_crit']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['health_recommend']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['form_complete']),0.25
+frozenset(['children_more']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['children_more']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['class_priority']),frozenset(['social_problematic']),0.5654008438818565
+frozenset(['social_problematic']),frozenset(['class_priority']),0.5583333333333333
+frozenset(['social_non_prob']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['form_foster']),0.25
+frozenset(['has_nurs_critical']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['children_more']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['parents_great_pret']),frozenset(['children_more']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['spec_prior']),0.29259259259259257
+frozenset(['spec_prior']),frozenset(['parents_pretentious']),0.3125618199802176
+frozenset(['form_completed']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['form_completed']),0.25
+frozenset(['housing_conv']),frozenset(['class_priority']),0.32314814814814813
+frozenset(['class_priority']),frozenset(['housing_conv']),0.32723863103609935
+frozenset(['has_nurs_critical']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['housing_critical']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['housing_critical']),0.5
+frozenset(['form_complete']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['form_complete']),0.25
+frozenset(['parents_great_pret']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['parents_great_pret']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['has_nurs_very_crit']),frozenset(['spec_prior']),0.5856481481481481
+frozenset(['spec_prior']),frozenset(['has_nurs_very_crit']),0.3753709198813056
+frozenset(['class_priority']),frozenset(['form_completed']),0.2433192686357243
+frozenset(['form_completed']),frozenset(['class_priority']),0.32037037037037036
+frozenset(['housing_critical']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['housing_critical']),0.5
+frozenset(['form_foster']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['form_foster']),0.25
+frozenset(['children_more']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['children_more']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['housing_critical']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['housing_critical']),0.5
+frozenset(['health_not_recom']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['form_foster']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['form_foster']),0.25
+frozenset(['class_priority']),frozenset(['finance_inconv']),0.35513361462728554
+frozenset(['finance_inconv']),frozenset(['class_priority']),0.3506944444444445
+frozenset(['form_incomplete']),frozenset(['spec_prior']),0.3506172839506173
+frozenset(['spec_prior']),frozenset(['form_incomplete']),0.2809099901088032
+frozenset(['has_nurs_very_crit']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['housing_conv']),frozenset(['has_nurs_critical']),0.19999999999999998
+frozenset(['has_nurs_critical']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['housing_critical']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['housing_critical']),0.5
+frozenset(['social_slightly_prob']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['children_more']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['children_more']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['spec_prior']),0.36527777777777776
+frozenset(['spec_prior']),frozenset(['social_problematic']),0.39020771513353114
+frozenset(['housing_conv']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['housing_critical']),frozenset(['spec_prior']),0.2864197530864197
+frozenset(['spec_prior']),frozenset(['housing_critical']),0.45895153313550935
+frozenset(['health_priority']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['health_recommend']),frozenset(['class_priority']),0.4291666666666667
+frozenset(['class_priority']),frozenset(['health_recommend']),0.4345991561181434
+frozenset(['finance_conv']),frozenset(['children_2']),0.25
+frozenset(['children_2']),frozenset(['finance_conv']),0.5
+frozenset(['class_priority']),frozenset(['form_incomplete']),0.23066104078762303
+frozenset(['form_incomplete']),frozenset(['class_priority']),0.3037037037037037
+frozenset(['finance_inconv']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['social_non_prob']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['children_1']),0.25
+frozenset(['children_1']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['class_priority']),frozenset(['children_2']),0.23066104078762303
+frozenset(['children_2']),frozenset(['class_priority']),0.3037037037037037
+frozenset(['social_non_prob']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['has_nurs_improper']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['health_not_recom']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['form_complete']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['form_complete']),0.25
+frozenset(['social_non_prob']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['social_non_prob']),0.3333333333333333
+frozenset(['has_nurs_very_crit']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_proper']),frozenset(['housing_critical']),0.5
+frozenset(['housing_critical']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['finance_inconv']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['class_priority']),frozenset(['housing_critical']),0.5260196905766525
+frozenset(['housing_critical']),frozenset(['class_priority']),0.3462962962962963
+frozenset(['children_1']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['children_1']),0.25
+frozenset(['health_not_recom']),frozenset(['housing_less_conv']),0.3333333333333333
+frozenset(['housing_less_conv']),frozenset(['health_not_recom']),0.3333333333333333
+frozenset(['has_nurs_improper']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['has_nurs_improper']),0.19999999999999998
+frozenset(['social_slightly_prob']),frozenset(['spec_prior']),0.3805555555555556
+frozenset(['spec_prior']),frozenset(['social_slightly_prob']),0.4065281899109792
+frozenset(['housing_conv']),frozenset(['has_nurs_less_proper']),0.19999999999999998
+frozenset(['has_nurs_less_proper']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['finance_conv']),0.5
+frozenset(['finance_conv']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['class_priority']),0.2861111111111111
+frozenset(['class_priority']),frozenset(['social_slightly_prob']),0.28973277074542897
+frozenset(['has_nurs_proper']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['has_nurs_proper']),0.19999999999999998
+frozenset(['health_recommend']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['finance_inconv']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['finance_inconv']),0.3333333333333333
+frozenset(['social_slightly_prob']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['social_slightly_prob']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['has_nurs_very_crit']),0.19999999999999998
+frozenset(['has_nurs_very_crit']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['form_complete']),0.25
+frozenset(['form_complete']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['parents_pretentious']),frozenset(['form_completed']),0.25
+frozenset(['form_completed']),frozenset(['parents_pretentious']),0.3333333333333333
+frozenset(['finance_conv']),frozenset(['spec_prior']),0.3376543209876543
+frozenset(['spec_prior']),frozenset(['finance_conv']),0.5410484668644906
+frozenset(['health_recommend']),frozenset(['children_3']),0.25
+frozenset(['children_3']),frozenset(['health_recommend']),0.3333333333333333
+frozenset(['social_problematic']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['social_problematic']),0.3333333333333333
+frozenset(['health_priority']),frozenset(['parents_usual']),0.3333333333333333
+frozenset(['parents_usual']),frozenset(['health_priority']),0.3333333333333333
+frozenset(['housing_conv']),frozenset(['form_incomplete']),0.25
+frozenset(['form_incomplete']),frozenset(['housing_conv']),0.3333333333333333
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['finance_inconv', 'parents_pretentious'])",0.1111111111111111
+frozenset(['class_priority']),"frozenset(['has_nurs_less_proper', 'housing_critical'])",0.15752461322081573
+frozenset(['housing_critical']),"frozenset(['has_nurs_less_proper', 'class_priority'])",0.1037037037037037
+frozenset(['has_nurs_less_proper']),"frozenset(['housing_critical', 'class_priority'])",0.25925925925925924
+frozenset(['class_priority']),"frozenset(['has_nurs_less_proper', 'social_problematic'])",0.15682137834036566
+frozenset(['social_problematic']),"frozenset(['has_nurs_less_proper', 'class_priority'])",0.15486111111111112
+frozenset(['has_nurs_less_proper']),"frozenset(['social_problematic', 'class_priority'])",0.25810185185185186
+frozenset(['has_nurs_proper']),"frozenset(['class_priority', 'health_recommend'])",0.2604166666666667
+frozenset(['health_recommend']),"frozenset(['class_priority', 'has_nurs_proper'])",0.15625
+frozenset(['class_priority']),"frozenset(['health_recommend', 'has_nurs_proper'])",0.1582278481012658
+frozenset(['social_slightly_prob']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_slightly_prob', 'health_priority'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_inconv'])",0.3333333333333333
+frozenset(['finance_inconv']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['finance_inconv', 'health_priority'])",0.3333333333333333
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'social_problematic'])",0.1111111111111111
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['has_nurs_critical']),"frozenset(['spec_prior', 'finance_conv'])",0.2623456790123457
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'has_nurs_critical'])",0.10493827160493827
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'has_nurs_critical'])",0.1681503461918892
+frozenset(['class_priority']),"frozenset(['housing_critical', 'has_nurs_proper'])",0.15752461322081573
+frozenset(['has_nurs_proper']),"frozenset(['housing_critical', 'class_priority'])",0.25925925925925924
+frozenset(['housing_critical']),"frozenset(['has_nurs_proper', 'class_priority'])",0.1037037037037037
+frozenset(['children_more']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['finance_inconv', 'children_more'])",0.1111111111111111
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'spec_prior'])",0.12407407407407407
+frozenset(['spec_prior']),"frozenset(['housing_less_conv', 'housing_critical'])",0.19881305637982194
+frozenset(['housing_less_conv']),"frozenset(['spec_prior', 'housing_critical'])",0.18611111111111112
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_usual', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'parents_great_pret'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['class_priority']),"frozenset(['social_problematic', 'parents_usual'])",0.22456633849038912
+frozenset(['parents_usual']),"frozenset(['social_problematic', 'class_priority'])",0.22175925925925927
+frozenset(['social_problematic']),"frozenset(['parents_usual', 'class_priority'])",0.22175925925925927
+frozenset(['health_priority']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_priority', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'housing_critical'])",0.5
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'health_priority'])",0.5
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['has_nurs_very_crit']),"frozenset(['spec_prior', 'housing_critical'])",0.2777777777777778
+frozenset(['housing_critical']),"frozenset(['spec_prior', 'has_nurs_very_crit'])",0.1111111111111111
+frozenset(['spec_prior']),"frozenset(['housing_critical', 'has_nurs_very_crit'])",0.17804154302670622
+frozenset(['has_nurs_very_crit']),"frozenset(['spec_prior', 'social_problematic'])",0.25578703703703703
+frozenset(['social_problematic']),"frozenset(['spec_prior', 'has_nurs_very_crit'])",0.1534722222222222
+frozenset(['spec_prior']),"frozenset(['social_problematic', 'has_nurs_very_crit'])",0.16394658753709196
+frozenset(['parents_pretentious']),"frozenset(['social_problematic', 'class_priority'])",0.18587962962962962
+frozenset(['class_priority']),"frozenset(['social_problematic', 'parents_pretentious'])",0.18823253633380216
+frozenset(['social_problematic']),"frozenset(['class_priority', 'parents_pretentious'])",0.18587962962962962
+frozenset(['class_priority']),"frozenset(['housing_critical', 'parents_pretentious'])",0.180028129395218
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'class_priority'])",0.17777777777777778
+frozenset(['housing_critical']),"frozenset(['parents_pretentious', 'class_priority'])",0.11851851851851851
+frozenset(['social_non_prob']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'social_non_prob'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'housing_conv'])",0.1111111111111111
+frozenset(['form_foster']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'form_foster'])",0.25
+frozenset(['health_not_recom']),"frozenset(['health_priority', 'form_foster'])",0.25
+frozenset(['class_priority']),"frozenset(['has_nurs_less_proper', 'health_recommend'])",0.1582278481012658
+frozenset(['health_recommend']),"frozenset(['has_nurs_less_proper', 'class_priority'])",0.15625
+frozenset(['has_nurs_less_proper']),"frozenset(['health_recommend', 'class_priority'])",0.2604166666666667
+frozenset(['health_priority']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_pretentious', 'health_priority'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_usual', 'health_priority'])",0.1111111111111111
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'parents_usual'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_non_prob', 'children_more'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'has_nurs_very_crit'])",0.19999999999999998
+frozenset(['has_nurs_very_crit']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['has_nurs_very_crit', 'health_priority'])",0.19999999999999998
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'parents_great_pret'])",0.28541666666666665
+frozenset(['parents_great_pret']),"frozenset(['spec_prior', 'health_recommend'])",0.28541666666666665
+frozenset(['spec_prior']),"frozenset(['parents_great_pret', 'health_recommend'])",0.30489614243323443
+frozenset(['health_priority']),"frozenset(['children_2', 'health_not_recom'])",0.25
+frozenset(['health_not_recom']),"frozenset(['children_2', 'health_priority'])",0.25
+frozenset(['children_2']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['social_slightly_prob']),"frozenset(['spec_prior', 'housing_critical'])",0.1787037037037037
+frozenset(['housing_critical']),"frozenset(['spec_prior', 'social_slightly_prob'])",0.1191358024691358
+frozenset(['spec_prior']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.19090009891196832
+frozenset(['social_problematic']),"frozenset(['spec_prior', 'finance_conv'])",0.20370370370370372
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'social_problematic'])",0.13580246913580246
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'social_problematic'])",0.2176063303659743
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_non_prob', 'children_more'])",0.1111111111111111
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'finance_inconv'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'children_more'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['children_more', 'health_priority'])",0.3333333333333333
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['finance_inconv', 'health_recommend'])",0.1111111111111111
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_usual', 'health_recommend'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_recommend', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['finance_inconv']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'finance_inconv'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['class_priority', 'parents_usual'])",0.22361111111111112
+frozenset(['parents_usual']),"frozenset(['class_priority', 'health_recommend'])",0.22361111111111112
+frozenset(['class_priority']),"frozenset(['parents_usual', 'health_recommend'])",0.22644163150492264
+frozenset(['social_slightly_prob']),"frozenset(['spec_prior', 'finance_conv'])",0.20185185185185187
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'social_slightly_prob'])",0.1345679012345679
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.2156280909990109
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'health_not_recom'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_non_prob', 'housing_conv'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_recommend', 'housing_conv'])",0.1111111111111111
+frozenset(['has_nurs_very_crit']),"frozenset(['spec_prior', 'finance_conv'])",0.30787037037037035
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'has_nurs_very_crit'])",0.12314814814814815
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'has_nurs_very_crit'])",0.1973293768545994
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'parents_great_pret'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['class_priority']),"frozenset(['housing_less_conv', 'social_problematic'])",0.17533989685888418
+frozenset(['social_problematic']),"frozenset(['housing_less_conv', 'class_priority'])",0.17314814814814813
+frozenset(['housing_less_conv']),"frozenset(['social_problematic', 'class_priority'])",0.17314814814814813
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'housing_conv'])",0.3333333333333333
+frozenset(['housing_conv']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['health_priority', 'housing_conv'])",0.3333333333333333
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_slightly_prob', 'housing_conv'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['form_completed', 'health_not_recom'])",0.25
+frozenset(['health_not_recom']),"frozenset(['form_completed', 'health_priority'])",0.25
+frozenset(['form_completed']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['has_nurs_critical']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'has_nurs_critical'])",0.19999999999999998
+frozenset(['health_not_recom']),"frozenset(['has_nurs_critical', 'health_priority'])",0.19999999999999998
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'social_problematic'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_recommend', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_usual', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'social_non_prob'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_usual', 'children_more'])",0.1111111111111111
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['finance_inconv', 'health_priority'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['spec_prior', 'finance_conv'])",0.15231481481481482
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'social_non_prob'])",0.10154320987654321
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'social_non_prob'])",0.16271018793273986
+frozenset(['has_nurs_critical']),"frozenset(['spec_prior', 'health_recommend'])",0.29282407407407407
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'has_nurs_critical'])",0.17569444444444443
+frozenset(['spec_prior']),"frozenset(['health_recommend', 'has_nurs_critical'])",0.1876854599406528
+frozenset(['children_more']),"frozenset(['social_problematic', 'class_priority'])",0.20092592592592592
+frozenset(['class_priority']),"frozenset(['social_problematic', 'children_more'])",0.203469292076887
+frozenset(['social_problematic']),"frozenset(['class_priority', 'children_more'])",0.20092592592592592
+frozenset(['parents_great_pret']),"frozenset(['spec_prior', 'finance_conv'])",0.25324074074074077
+frozenset(['spec_prior']),"frozenset(['parents_great_pret', 'finance_conv'])",0.2705242334322453
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'parents_great_pret'])",0.16882716049382715
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_recommend', 'parents_usual'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_usual', 'housing_conv'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'health_priority'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'social_non_prob'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'finance_inconv'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['finance_inconv', 'parents_usual'])",0.1111111111111111
+frozenset(['social_problematic']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'social_problematic'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['class_priority', 'children_more'])",0.1736111111111111
+frozenset(['children_more']),"frozenset(['class_priority', 'health_recommend'])",0.1736111111111111
+frozenset(['class_priority']),"frozenset(['health_recommend', 'children_more'])",0.17580872011251758
+frozenset(['parents_great_pret']),"frozenset(['housing_less_conv', 'spec_prior'])",0.18611111111111112
+frozenset(['spec_prior']),"frozenset(['housing_less_conv', 'parents_great_pret'])",0.19881305637982194
+frozenset(['housing_less_conv']),"frozenset(['spec_prior', 'parents_great_pret'])",0.18611111111111112
+frozenset(['children_more']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['children_more', 'health_priority'])",0.1111111111111111
+frozenset(['class_priority']),"frozenset(['social_problematic', 'finance_inconv'])",0.21026722925457103
+frozenset(['social_problematic']),"frozenset(['finance_inconv', 'class_priority'])",0.2076388888888889
+frozenset(['finance_inconv']),"frozenset(['social_problematic', 'class_priority'])",0.2076388888888889
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'parents_great_pret'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['spec_prior', 'finance_conv'])",0.16018518518518518
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'children_more'])",0.10679012345679012
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'children_more'])",0.17111770524233433
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'housing_conv'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['class_priority']),"frozenset(['housing_critical', 'social_problematic'])",0.2911392405063291
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'class_priority'])",0.28750000000000003
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'class_priority'])",0.19166666666666668
+frozenset(['housing_conv']),"frozenset(['social_problematic', 'class_priority'])",0.18425925925925926
+frozenset(['class_priority']),"frozenset(['social_problematic', 'housing_conv'])",0.18659165494608532
+frozenset(['social_problematic']),"frozenset(['class_priority', 'housing_conv'])",0.18425925925925926
+frozenset(['health_priority']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'health_priority'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'finance_inconv'])",0.1111111111111111
+frozenset(['finance_inconv']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_pretentious', 'health_priority'])",0.1111111111111111
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'parents_usual'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_pretentious', 'social_non_prob'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_slightly_prob', 'children_more'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_usual', 'social_non_prob'])",0.1111111111111111
+frozenset(['parents_pretentious']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'parents_pretentious'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_problematic', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'housing_conv'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_recommend', 'housing_conv'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'social_slightly_prob'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['social_slightly_prob', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'health_priority'])",0.1111111111111111
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'health_recommend'])",0.1111111111111111
+frozenset(['parents_pretentious']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'parents_pretentious'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_pretentious', 'health_recommend'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_conv', 'health_priority'])",0.1111111111111111
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'health_not_recom'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'children_more'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['housing_less_conv', 'spec_prior'])",0.21666666666666667
+frozenset(['spec_prior']),"frozenset(['housing_less_conv', 'health_recommend'])",0.2314540059347181
+frozenset(['housing_less_conv']),"frozenset(['spec_prior', 'health_recommend'])",0.21666666666666667
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'housing_conv'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'children_more'])",0.1111111111111111
+frozenset(['children_more']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['spec_prior', 'housing_critical'])",0.16157407407407406
+frozenset(['housing_critical']),"frozenset(['spec_prior', 'social_problematic'])",0.10771604938271605
+frozenset(['spec_prior']),"frozenset(['housing_critical', 'social_problematic'])",0.17260138476755685
+frozenset(['has_nurs_very_crit']),"frozenset(['spec_prior', 'health_recommend'])",0.32986111111111116
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'has_nurs_very_crit'])",0.19791666666666669
+frozenset(['spec_prior']),"frozenset(['health_recommend', 'has_nurs_very_crit'])",0.21142433234421365
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_problematic', 'parents_pretentious'])",0.1111111111111111
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'housing_critical'])",0.26805555555555555
+frozenset(['housing_critical']),"frozenset(['spec_prior', 'health_recommend'])",0.1787037037037037
+frozenset(['spec_prior']),"frozenset(['housing_critical', 'health_recommend'])",0.28635014836795253
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_problematic', 'parents_usual'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'parents_usual'])",0.3333333333333333
+frozenset(['parents_usual']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['parents_usual', 'health_priority'])",0.3333333333333333
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['finance_inconv', 'housing_conv'])",0.1111111111111111
+frozenset(['parents_pretentious']),"frozenset(['spec_prior', 'finance_conv'])",0.1574074074074074
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'parents_pretentious'])",0.10493827160493827
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'parents_pretentious'])",0.1681503461918892
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'parents_pretentious'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_priority', 'social_non_prob'])",0.1111111111111111
+frozenset(['class_priority']),"frozenset(['housing_critical', 'health_recommend'])",0.2348804500703235
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'class_priority'])",0.23194444444444445
+frozenset(['housing_critical']),"frozenset(['health_recommend', 'class_priority'])",0.15462962962962962
+frozenset(['form_incomplete']),"frozenset(['spec_prior', 'health_recommend'])",0.2074074074074074
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'form_incomplete'])",0.15555555555555556
+frozenset(['spec_prior']),"frozenset(['form_incomplete', 'health_recommend'])",0.1661721068249258
+frozenset(['health_recommend']),"frozenset(['children_2', 'spec_prior'])",0.15555555555555556
+frozenset(['spec_prior']),"frozenset(['children_2', 'health_recommend'])",0.1661721068249258
+frozenset(['children_2']),"frozenset(['spec_prior', 'health_recommend'])",0.2074074074074074
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'has_nurs_proper'])",0.19999999999999998
+frozenset(['has_nurs_proper']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['has_nurs_proper', 'health_priority'])",0.19999999999999998
+frozenset(['class_priority']),"frozenset(['housing_critical', 'finance_inconv'])",0.1847163619315518
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'class_priority'])",0.1824074074074074
+frozenset(['housing_critical']),"frozenset(['finance_inconv', 'class_priority'])",0.12160493827160494
+frozenset(['children_more']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'children_more'])",0.1111111111111111
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'parents_pretentious'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'social_problematic'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_non_prob', 'health_priority'])",0.1111111111111111
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'class_priority'])",0.19722222222222222
+frozenset(['class_priority']),"frozenset(['finance_conv', 'health_recommend'])",0.19971870604781997
+frozenset(['finance_conv']),"frozenset(['class_priority', 'health_recommend'])",0.13148148148148148
+frozenset(['housing_conv']),"frozenset(['spec_prior', 'health_recommend'])",0.19444444444444445
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'housing_conv'])",0.19444444444444445
+frozenset(['spec_prior']),"frozenset(['health_recommend', 'housing_conv'])",0.20771513353115725
+frozenset(['housing_conv']),"frozenset(['spec_prior', 'housing_critical'])",0.16018518518518518
+frozenset(['housing_critical']),"frozenset(['spec_prior', 'housing_conv'])",0.10679012345679012
+frozenset(['spec_prior']),"frozenset(['housing_critical', 'housing_conv'])",0.17111770524233433
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'has_nurs_improper'])",0.19999999999999998
+frozenset(['has_nurs_improper']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['has_nurs_improper', 'health_priority'])",0.19999999999999998
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'finance_conv'])",0.30277777777777776
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'health_recommend'])",0.20185185185185184
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'health_recommend'])",0.32344213649851633
+frozenset(['health_priority']),"frozenset(['parents_great_pret', 'health_not_recom'])",0.3333333333333333
+frozenset(['parents_great_pret']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['parents_great_pret', 'health_priority'])",0.3333333333333333
+frozenset(['housing_critical']),"frozenset(['spec_prior', 'parents_great_pret'])",0.14320987654320985
+frozenset(['parents_great_pret']),"frozenset(['spec_prior', 'housing_critical'])",0.2148148148148148
+frozenset(['spec_prior']),"frozenset(['parents_great_pret', 'housing_critical'])",0.22947576656775467
+frozenset(['social_problematic']),"frozenset(['spec_prior', 'parents_great_pret'])",0.18263888888888888
+frozenset(['parents_great_pret']),"frozenset(['spec_prior', 'social_problematic'])",0.18263888888888888
+frozenset(['spec_prior']),"frozenset(['parents_great_pret', 'social_problematic'])",0.19510385756676557
+frozenset(['class_priority']),"frozenset(['finance_conv', 'social_problematic'])",0.2742616033755274
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'class_priority'])",0.27083333333333337
+frozenset(['finance_conv']),"frozenset(['social_problematic', 'class_priority'])",0.18055555555555555
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'social_non_prob'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'social_non_prob'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['social_problematic', 'class_priority'])",0.2076388888888889
+frozenset(['class_priority']),"frozenset(['social_problematic', 'social_non_prob'])",0.21026722925457103
+frozenset(['social_problematic']),"frozenset(['class_priority', 'social_non_prob'])",0.2076388888888889
+frozenset(['social_slightly_prob']),"frozenset(['spec_prior', 'social_problematic'])",0.1902777777777778
+frozenset(['social_problematic']),"frozenset(['spec_prior', 'social_slightly_prob'])",0.1902777777777778
+frozenset(['spec_prior']),"frozenset(['social_problematic', 'social_slightly_prob'])",0.2032640949554896
+frozenset(['social_slightly_prob']),"frozenset(['spec_prior', 'parents_great_pret'])",0.1902777777777778
+frozenset(['parents_great_pret']),"frozenset(['spec_prior', 'social_slightly_prob'])",0.1902777777777778
+frozenset(['spec_prior']),"frozenset(['parents_great_pret', 'social_slightly_prob'])",0.2032640949554896
+frozenset(['health_recommend']),"frozenset(['children_3', 'spec_prior'])",0.15555555555555556
+frozenset(['spec_prior']),"frozenset(['children_3', 'health_recommend'])",0.1661721068249258
+frozenset(['children_3']),"frozenset(['spec_prior', 'health_recommend'])",0.2074074074074074
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_pretentious', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['finance_inconv']),"frozenset(['spec_prior', 'finance_conv'])",0.15231481481481482
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'finance_inconv'])",0.10154320987654321
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'finance_inconv'])",0.16271018793273986
+frozenset(['housing_conv']),"frozenset(['spec_prior', 'parents_great_pret'])",0.16018518518518518
+frozenset(['parents_great_pret']),"frozenset(['spec_prior', 'housing_conv'])",0.16018518518518518
+frozenset(['spec_prior']),"frozenset(['parents_great_pret', 'housing_conv'])",0.17111770524233433
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'health_priority'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_recommend', 'parents_pretentious'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_problematic', 'housing_conv'])",0.1111111111111111
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'parents_pretentious'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['children_1', 'health_not_recom'])",0.25
+frozenset(['children_1']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['children_1', 'health_priority'])",0.25
+frozenset(['has_nurs_proper']),"frozenset(['social_problematic', 'class_priority'])",0.25810185185185186
+frozenset(['class_priority']),"frozenset(['social_problematic', 'has_nurs_proper'])",0.15682137834036566
+frozenset(['social_problematic']),"frozenset(['class_priority', 'has_nurs_proper'])",0.15486111111111112
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_usual', 'social_non_prob'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'form_complete'])",0.25
+frozenset(['form_complete']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['form_complete', 'health_priority'])",0.25
+frozenset(['health_priority']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_priority', 'children_more'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'housing_conv'])",0.1111111111111111
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'health_recommend'])",0.1111111111111111
+frozenset(['health_recommend']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'finance_inconv'])",0.1111111111111111
+frozenset(['finance_inconv']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'finance_inconv'])",0.1111111111111111
+frozenset(['finance_inconv']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+frozenset(['has_nurs_proper']),"frozenset(['finance_conv', 'class_priority'])",0.25925925925925924
+frozenset(['class_priority']),"frozenset(['finance_conv', 'has_nurs_proper'])",0.15752461322081573
+frozenset(['finance_conv']),"frozenset(['class_priority', 'has_nurs_proper'])",0.1037037037037037
+frozenset(['children_more']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'children_more'])",0.1111111111111111
+frozenset(['parents_usual']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'parents_usual'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['class_priority']),"frozenset(['parents_great_pret', 'social_problematic'])",0.15260196905766524
+frozenset(['social_problematic']),"frozenset(['parents_great_pret', 'class_priority'])",0.15069444444444444
+frozenset(['parents_great_pret']),"frozenset(['social_problematic', 'class_priority'])",0.15069444444444444
+frozenset(['children_more']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_problematic', 'children_more'])",0.1111111111111111
+frozenset(['children_more']),"frozenset(['finance_conv', 'class_priority'])",0.16157407407407406
+frozenset(['class_priority']),"frozenset(['finance_conv', 'children_more'])",0.16361931551804967
+frozenset(['finance_conv']),"frozenset(['class_priority', 'children_more'])",0.10771604938271605
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_slightly_prob', 'children_more'])",0.1111111111111111
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'class_priority'])",0.2222222222222222
+frozenset(['class_priority']),"frozenset(['finance_conv', 'parents_usual'])",0.2250351617440225
+frozenset(['finance_conv']),"frozenset(['class_priority', 'parents_usual'])",0.14814814814814814
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_priority', 'housing_conv'])",0.1111111111111111
+frozenset(['children_more']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'children_more'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['children_3', 'health_not_recom'])",0.25
+frozenset(['health_not_recom']),"frozenset(['children_3', 'health_priority'])",0.25
+frozenset(['children_3']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'parents_pretentious'])",0.1111111111111111
+frozenset(['parents_pretentious']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['spec_prior', 'health_recommend'])",0.1902777777777778
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'social_non_prob'])",0.1902777777777778
+frozenset(['spec_prior']),"frozenset(['health_recommend', 'social_non_prob'])",0.2032640949554896
+frozenset(['class_priority']),"frozenset(['finance_conv', 'finance_inconv'])",0.17041725269573368
+frozenset(['finance_inconv']),"frozenset(['finance_conv', 'class_priority'])",0.168287037037037
+frozenset(['finance_conv']),"frozenset(['finance_inconv', 'class_priority'])",0.11219135802469135
+frozenset(['health_priority']),"frozenset(['has_nurs_less_proper', 'health_not_recom'])",0.19999999999999998
+frozenset(['health_not_recom']),"frozenset(['has_nurs_less_proper', 'health_priority'])",0.19999999999999998
+frozenset(['has_nurs_less_proper']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'class_priority'])",0.168287037037037
+frozenset(['class_priority']),"frozenset(['finance_conv', 'social_non_prob'])",0.17041725269573368
+frozenset(['finance_conv']),"frozenset(['class_priority', 'social_non_prob'])",0.11219135802469135
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'health_recommend'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_pretentious', 'social_non_prob'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'class_priority'])",0.16157407407407406
+frozenset(['class_priority']),"frozenset(['finance_conv', 'housing_conv'])",0.16361931551804967
+frozenset(['finance_conv']),"frozenset(['class_priority', 'housing_conv'])",0.10771604938271605
+frozenset(['children_more']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_pretentious', 'children_more'])",0.1111111111111111
+frozenset(['children_more']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_usual', 'children_more'])",0.1111111111111111
+frozenset(['parents_pretentious']),"frozenset(['spec_prior', 'health_recommend'])",0.17569444444444443
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'parents_pretentious'])",0.17569444444444443
+frozenset(['spec_prior']),"frozenset(['health_recommend', 'parents_pretentious'])",0.1876854599406528
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'parents_usual'])",0.1111111111111111
+frozenset(['parents_usual']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['form_incomplete', 'health_not_recom'])",0.25
+frozenset(['health_not_recom']),"frozenset(['form_incomplete', 'health_priority'])",0.25
+frozenset(['form_incomplete']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['children_more']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_pretentious', 'children_more'])",0.1111111111111111
+frozenset(['class_priority']),"frozenset(['has_nurs_less_proper', 'finance_conv'])",0.15752461322081573
+frozenset(['finance_conv']),"frozenset(['has_nurs_less_proper', 'class_priority'])",0.1037037037037037
+frozenset(['has_nurs_less_proper']),"frozenset(['finance_conv', 'class_priority'])",0.25925925925925924
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'social_problematic'])",0.1111111111111111
+frozenset(['social_problematic']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_recommend', 'children_more'])",0.1111111111111111
+frozenset(['parents_usual']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'parents_usual'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'class_priority'])",0.1824074074074074
+frozenset(['class_priority']),"frozenset(['housing_critical', 'social_non_prob'])",0.1847163619315518
+frozenset(['housing_critical']),"frozenset(['class_priority', 'social_non_prob'])",0.12160493827160494
+frozenset(['housing_conv']),"frozenset(['spec_prior', 'finance_conv'])",0.16018518518518518
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'housing_conv'])",0.10679012345679012
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'housing_conv'])",0.17111770524233433
+frozenset(['social_problematic']),"frozenset(['housing_less_conv', 'spec_prior'])",0.15555555555555556
+frozenset(['spec_prior']),"frozenset(['housing_less_conv', 'social_problematic'])",0.1661721068249258
+frozenset(['housing_less_conv']),"frozenset(['spec_prior', 'social_problematic'])",0.15555555555555556
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_pretentious', 'housing_conv'])",0.1111111111111111
+frozenset(['class_priority']),"frozenset(['housing_critical', 'parents_usual'])",0.22597280825128926
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'class_priority'])",0.22314814814814815
+frozenset(['housing_critical']),"frozenset(['parents_usual', 'class_priority'])",0.14876543209876544
+frozenset(['social_non_prob']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'social_non_prob'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'health_priority'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_problematic', 'social_non_prob'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_pretentious', 'housing_conv'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_recommend', 'social_non_prob'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['parents_usual', 'housing_conv'])",0.1111111111111111
+frozenset(['social_slightly_prob']),"frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_pretentious', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['children_more']),"frozenset(['housing_critical', 'class_priority'])",0.21296296296296294
+frozenset(['class_priority']),"frozenset(['housing_critical', 'children_more'])",0.21565869667135487
+frozenset(['housing_critical']),"frozenset(['class_priority', 'children_more'])",0.1419753086419753
+frozenset(['social_slightly_prob']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'class_priority'])",0.15462962962962962
+frozenset(['class_priority']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.156586966713549
+frozenset(['housing_critical']),"frozenset(['class_priority', 'social_slightly_prob'])",0.10308641975308643
+frozenset(['health_priority']),"frozenset(['finance_conv', 'health_not_recom'])",0.5
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'health_priority'])",0.5
+frozenset(['housing_critical']),"frozenset(['parents_great_pret', 'housing_conv'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'social_non_prob'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['finance_conv', 'class_priority'])",0.16574074074074072
+frozenset(['class_priority']),"frozenset(['finance_conv', 'parents_pretentious'])",0.1678387248007501
+frozenset(['finance_conv']),"frozenset(['class_priority', 'parents_pretentious'])",0.11049382716049382
+frozenset(['health_priority']),"frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_usual', 'health_priority'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_recommend', 'social_non_prob'])",0.1111111111111111
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'class_priority'])",0.16157407407407406
+frozenset(['class_priority']),"frozenset(['housing_critical', 'housing_conv'])",0.16361931551804967
+frozenset(['housing_critical']),"frozenset(['class_priority', 'housing_conv'])",0.10771604938271605
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'health_not_recom'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_less_conv']),"frozenset(['health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['social_non_prob', 'housing_conv'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'social_non_prob'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['social_non_prob', 'health_priority'])",0.3333333333333333
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'finance_inconv'])",0.1902777777777778
+frozenset(['finance_inconv']),"frozenset(['spec_prior', 'health_recommend'])",0.1902777777777778
+frozenset(['spec_prior']),"frozenset(['finance_inconv', 'health_recommend'])",0.2032640949554896
+frozenset(['social_slightly_prob']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['housing_critical', 'social_problematic'])",0.16666666666666666
+frozenset(['social_problematic']),"frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_problematic', 'parents_usual'])",0.1111111111111111
+frozenset(['health_recommend']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'health_recommend'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'health_recommend'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'parents_pretentious'])",0.3333333333333333
+frozenset(['parents_pretentious']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['parents_pretentious', 'health_priority'])",0.3333333333333333
+frozenset(['social_slightly_prob']),"frozenset(['spec_prior', 'health_recommend'])",0.1902777777777778
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'social_slightly_prob'])",0.1902777777777778
+frozenset(['spec_prior']),"frozenset(['health_recommend', 'social_slightly_prob'])",0.2032640949554896
+frozenset(['health_priority']),"frozenset(['housing_less_conv', 'health_not_recom'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['housing_less_conv', 'health_priority'])",0.3333333333333333
+frozenset(['housing_less_conv']),"frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['children_more']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+frozenset(['health_recommend']),"frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_recommend', 'children_more'])",0.1111111111111111
+frozenset(['health_recommend']),"frozenset(['class_priority', 'parents_pretentious'])",0.15763888888888888
+frozenset(['parents_pretentious']),"frozenset(['class_priority', 'health_recommend'])",0.15763888888888888
+frozenset(['class_priority']),"frozenset(['parents_pretentious', 'health_recommend'])",0.15963431786216598
+frozenset(['finance_inconv']),"frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'finance_inconv'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['social_slightly_prob', 'housing_conv'])",0.1111111111111111
+frozenset(['children_more']),"frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'children_more'])",0.1111111111111111
+frozenset(['parents_great_pret']),"frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'spec_prior'])",0.12407407407407407
+frozenset(['spec_prior']),"frozenset(['housing_less_conv', 'finance_conv'])",0.19881305637982194
+frozenset(['housing_less_conv']),"frozenset(['spec_prior', 'finance_conv'])",0.18611111111111112
+frozenset(['children_more']),"frozenset(['spec_prior', 'health_recommend'])",0.1597222222222222
+frozenset(['health_recommend']),"frozenset(['spec_prior', 'children_more'])",0.1597222222222222
+frozenset(['spec_prior']),"frozenset(['health_recommend', 'children_more'])",0.17062314540059345
+frozenset(['health_recommend']),"frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'health_recommend'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['housing_critical', 'health_recommend'])",0.16666666666666666
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_critical', 'housing_conv'])",0.16666666666666666
+"frozenset(['health_priority', 'housing_conv'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['health_not_recom', 'housing_conv'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['health_not_recom', 'housing_conv'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['health_priority', 'housing_conv'])",0.3333333333333333
+"frozenset(['housing_critical', 'housing_conv'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'health_priority', 'housing_conv'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'housing_conv', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'health_priority', 'housing_conv'])",0.1111111111111111
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'parents_great_pret'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'parents_great_pret'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['parents_great_pret', 'health_priority'])",0.3333333333333333
+"frozenset(['parents_great_pret', 'health_priority'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'parents_great_pret'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'parents_great_pret'])","frozenset(['finance_conv', 'health_priority'])",0.5
+frozenset(['finance_conv']),"frozenset(['parents_great_pret', 'health_not_recom', 'health_priority'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['parents_great_pret', 'health_not_recom', 'finance_conv'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['parents_great_pret', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['parents_great_pret']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'finance_inconv'])",0.3333333333333333
+"frozenset(['finance_inconv', 'health_priority'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'finance_inconv'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'finance_inconv'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['finance_inconv', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'finance_inconv'])","frozenset(['finance_conv', 'health_priority'])",0.5
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'finance_inconv', 'health_priority'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_conv', 'finance_inconv'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'finance_inconv', 'health_priority'])",0.16666666666666666
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_critical', 'finance_inconv'])",0.16666666666666666
+"frozenset(['finance_inconv', 'health_priority'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['health_not_recom', 'finance_inconv'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['health_not_recom', 'finance_inconv'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['finance_inconv', 'health_priority'])",0.3333333333333333
+"frozenset(['housing_critical', 'finance_inconv'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'finance_inconv', 'health_priority'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_inconv', 'housing_critical'])",0.16666666666666666
+frozenset(['finance_inconv']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'finance_inconv', 'health_priority'])",0.1111111111111111
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_critical', 'social_slightly_prob'])",0.16666666666666666
+"frozenset(['health_priority', 'social_slightly_prob'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['health_not_recom', 'social_slightly_prob'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['health_not_recom', 'social_slightly_prob'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['health_priority', 'social_slightly_prob'])",0.3333333333333333
+"frozenset(['housing_critical', 'social_slightly_prob'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'health_priority', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'social_slightly_prob', 'housing_critical'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'health_priority', 'social_slightly_prob'])",0.1111111111111111
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_less_conv', 'housing_critical'])",0.16666666666666666
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['housing_less_conv', 'health_not_recom'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['housing_less_conv', 'health_priority'])",0.3333333333333333
+"frozenset(['housing_less_conv', 'health_priority'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['housing_less_conv', 'health_not_recom'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_less_conv', 'housing_critical'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['housing_less_conv', 'health_not_recom', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_less_conv', 'housing_critical', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['housing_less_conv', 'health_not_recom', 'health_priority'])",0.1111111111111111
+frozenset(['housing_less_conv']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'children_more'])",0.3333333333333333
+"frozenset(['health_priority', 'children_more'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'children_more'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'children_more'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['health_priority', 'children_more'])",0.3333333333333333
+"frozenset(['health_not_recom', 'children_more'])","frozenset(['finance_conv', 'health_priority'])",0.5
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'health_priority', 'children_more'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_conv', 'children_more'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'health_priority', 'children_more'])",0.16666666666666666
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_critical', 'children_more'])",0.16666666666666666
+"frozenset(['health_priority', 'children_more'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['health_not_recom', 'children_more'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['health_not_recom', 'children_more'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['health_priority', 'children_more'])",0.3333333333333333
+"frozenset(['housing_critical', 'children_more'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'health_priority', 'children_more'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'children_more', 'housing_critical'])",0.16666666666666666
+frozenset(['children_more']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'health_priority', 'children_more'])",0.1111111111111111
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'housing_conv'])",0.3333333333333333
+"frozenset(['health_priority', 'housing_conv'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'housing_conv'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'housing_conv'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['health_priority', 'housing_conv'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_conv'])","frozenset(['finance_conv', 'health_priority'])",0.5
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'health_priority', 'housing_conv'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_conv', 'housing_conv'])",0.16666666666666666
+frozenset(['housing_conv']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'health_priority', 'housing_conv'])",0.16666666666666666
+"frozenset(['parents_great_pret', 'health_recommend'])","frozenset(['spec_prior', 'finance_conv'])",0.4541666666666667
+"frozenset(['finance_conv', 'health_recommend'])","frozenset(['spec_prior', 'parents_great_pret'])",0.30277777777777776
+"frozenset(['parents_great_pret', 'finance_conv'])","frozenset(['spec_prior', 'health_recommend'])",0.30277777777777776
+"frozenset(['spec_prior', 'health_recommend'])","frozenset(['parents_great_pret', 'finance_conv'])",0.26520681265206814
+"frozenset(['spec_prior', 'parents_great_pret'])","frozenset(['finance_conv', 'health_recommend'])",0.32344213649851633
+"frozenset(['spec_prior', 'finance_conv'])","frozenset(['parents_great_pret', 'health_recommend'])",0.29890310786106034
+frozenset(['health_recommend']),"frozenset(['parents_great_pret', 'spec_prior', 'finance_conv'])",0.15138888888888888
+frozenset(['parents_great_pret']),"frozenset(['spec_prior', 'finance_conv', 'health_recommend'])",0.15138888888888888
+frozenset(['finance_conv']),"frozenset(['spec_prior', 'parents_great_pret', 'health_recommend'])",0.10092592592592592
+frozenset(['spec_prior']),"frozenset(['finance_conv', 'parents_great_pret', 'health_recommend'])",0.16172106824925817
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_critical', 'social_non_prob'])",0.16666666666666666
+"frozenset(['health_priority', 'social_non_prob'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['health_not_recom', 'social_non_prob'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['health_not_recom', 'social_non_prob'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['health_priority', 'social_non_prob'])",0.3333333333333333
+"frozenset(['housing_critical', 'social_non_prob'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'health_priority', 'social_non_prob'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'social_non_prob', 'housing_critical'])",0.16666666666666666
+frozenset(['social_non_prob']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'health_priority', 'social_non_prob'])",0.1111111111111111
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['housing_less_conv', 'health_not_recom'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_less_conv', 'finance_conv'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['housing_less_conv', 'health_priority'])",0.3333333333333333
+"frozenset(['housing_less_conv', 'health_priority'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['housing_less_conv', 'finance_conv'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['housing_less_conv', 'health_not_recom'])","frozenset(['finance_conv', 'health_priority'])",0.5
+frozenset(['health_priority']),"frozenset(['finance_conv', 'housing_less_conv', 'health_not_recom'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['housing_less_conv', 'health_not_recom', 'health_priority'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['housing_less_conv', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['housing_less_conv']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'social_slightly_prob'])",0.3333333333333333
+"frozenset(['health_priority', 'social_slightly_prob'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'social_slightly_prob'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'social_slightly_prob'])",0.16666666666666666
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['health_priority', 'social_slightly_prob'])",0.3333333333333333
+"frozenset(['health_not_recom', 'social_slightly_prob'])","frozenset(['finance_conv', 'health_priority'])",0.5
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'health_priority', 'social_slightly_prob'])",0.1111111111111111
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_conv', 'social_slightly_prob'])",0.16666666666666666
+frozenset(['social_slightly_prob']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'health_priority', 'social_slightly_prob'])",0.16666666666666666
+"frozenset(['finance_conv', 'social_non_prob'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['social_non_prob', 'health_priority'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'social_non_prob'])",0.3333333333333333
+"frozenset(['health_not_recom', 'social_non_prob'])","frozenset(['finance_conv', 'health_priority'])",0.5
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['social_non_prob', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'social_non_prob', 'health_priority'])",0.1111111111111111
+frozenset(['social_non_prob']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_conv', 'social_non_prob'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'social_non_prob', 'health_priority'])",0.16666666666666666
+"frozenset(['parents_pretentious', 'health_priority'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'parents_pretentious'])",0.3333333333333333
+"frozenset(['finance_conv', 'parents_pretentious'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'parents_pretentious'])",0.16666666666666666
+"frozenset(['health_not_recom', 'parents_pretentious'])","frozenset(['finance_conv', 'health_priority'])",0.5
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['parents_pretentious', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_conv', 'parents_pretentious'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'parents_pretentious', 'health_priority'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'parents_pretentious', 'health_priority'])",0.16666666666666666
+"frozenset(['parents_usual', 'health_priority'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_critical', 'parents_usual'])",0.16666666666666666
+"frozenset(['health_not_recom', 'parents_usual'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['health_not_recom', 'parents_usual'])",0.3333333333333333
+"frozenset(['housing_critical', 'parents_usual'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['parents_usual', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'parents_usual', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'parents_usual', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'parents_usual', 'health_priority'])",0.1111111111111111
+"frozenset(['parents_pretentious', 'health_priority'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['housing_critical', 'parents_pretentious'])",0.16666666666666666
+"frozenset(['health_not_recom', 'parents_pretentious'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['health_not_recom', 'parents_pretentious'])",0.3333333333333333
+"frozenset(['housing_critical', 'parents_pretentious'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['parents_pretentious', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'parents_pretentious', 'housing_critical'])",0.16666666666666666
+frozenset(['parents_pretentious']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['health_not_recom']),"frozenset(['housing_critical', 'parents_pretentious', 'health_priority'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'parents_pretentious', 'health_priority'])",0.1111111111111111
+"frozenset(['parents_great_pret', 'health_priority'])","frozenset(['health_not_recom', 'housing_critical'])",0.5
+"frozenset(['housing_critical', 'health_priority'])","frozenset(['parents_great_pret', 'health_not_recom'])",0.3333333333333333
+"frozenset(['parents_great_pret', 'housing_critical'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['parents_great_pret', 'housing_critical'])",0.16666666666666666
+"frozenset(['parents_great_pret', 'health_not_recom'])","frozenset(['housing_critical', 'health_priority'])",0.5
+"frozenset(['health_not_recom', 'housing_critical'])","frozenset(['parents_great_pret', 'health_priority'])",0.3333333333333333
+frozenset(['parents_great_pret']),"frozenset(['health_not_recom', 'health_priority', 'housing_critical'])",0.16666666666666666
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'parents_great_pret', 'housing_critical'])",0.16666666666666666
+frozenset(['housing_critical']),"frozenset(['health_not_recom', 'parents_great_pret', 'health_priority'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['parents_great_pret', 'health_priority', 'housing_critical'])",0.16666666666666666
+"frozenset(['parents_usual', 'health_priority'])","frozenset(['finance_conv', 'health_not_recom'])",0.5
+"frozenset(['finance_conv', 'health_priority'])","frozenset(['health_not_recom', 'parents_usual'])",0.3333333333333333
+"frozenset(['finance_conv', 'parents_usual'])","frozenset(['health_not_recom', 'health_priority'])",0.3333333333333333
+"frozenset(['health_not_recom', 'health_priority'])","frozenset(['finance_conv', 'parents_usual'])",0.16666666666666666
+"frozenset(['health_not_recom', 'parents_usual'])","frozenset(['finance_conv', 'health_priority'])",0.5
+"frozenset(['finance_conv', 'health_not_recom'])","frozenset(['parents_usual', 'health_priority'])",0.3333333333333333
+frozenset(['health_priority']),"frozenset(['health_not_recom', 'finance_conv', 'parents_usual'])",0.16666666666666666
+frozenset(['parents_usual']),"frozenset(['health_not_recom', 'finance_conv', 'health_priority'])",0.16666666666666666
+frozenset(['finance_conv']),"frozenset(['health_not_recom', 'parents_usual', 'health_priority'])",0.1111111111111111
+frozenset(['health_not_recom']),"frozenset(['finance_conv', 'parents_usual', 'health_priority'])",0.16666666666666666

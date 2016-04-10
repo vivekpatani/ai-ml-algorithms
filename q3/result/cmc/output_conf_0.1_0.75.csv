@@ -1,0 +1,311 @@
+frozenset(['hus_edu_mid']),frozenset(['media_good']),0.9232954545454546
+frozenset(['age_mature']),frozenset(['media_good']),0.8916349809885932
+frozenset(['stnd_of_living_int']),frozenset(['not_working_wife']),0.7510917030567686
+frozenset(['number_of_children_high']),frozenset(['media_good']),0.8777173913043478
+frozenset(['number_of_children_mid']),frozenset(['rel_islam']),0.8070175438596492
+frozenset(['no_conception']),frozenset(['media_good']),0.8823529411764706
+frozenset(['occupation_cat_1']),frozenset(['rel_islam']),0.8348623853211009
+frozenset(['number_of_children_mid']),frozenset(['media_good']),0.9254385964912281
+frozenset(['stnd_of_living_med']),frozenset(['not_working_wife']),0.7726218097447796
+frozenset(['occupation_cat_3']),frozenset(['media_good']),0.9076923076923077
+frozenset(['not_working_wife']),frozenset(['media_good']),0.9257246376811593
+frozenset(['number_of_children_low']),frozenset(['media_good']),0.9537750385208011
+frozenset(['age_low']),frozenset(['not_working_wife']),0.8465116279069766
+frozenset(['working_wife']),frozenset(['rel_islam']),0.8075880758807588
+frozenset(['edu_high']),frozenset(['hus_edu_high']),0.9428076256499133
+frozenset(['long_term_conception']),frozenset(['media_good']),0.96996996996997
+frozenset(['age_low']),frozenset(['media_good']),0.9395348837209301
+frozenset(['stnd_of_living_high']),frozenset(['media_good']),0.9736842105263158
+frozenset(['age_mature']),frozenset(['rel_islam']),0.7984790874524714
+frozenset(['edu_mid']),frozenset(['rel_islam']),0.8731707317073171
+frozenset(['rel_not_islam']),frozenset(['hus_edu_high']),0.8318181818181819
+frozenset(['edu_high']),frozenset(['media_good']),0.9896013864818025
+frozenset(['edu_int']),frozenset(['media_good']),0.9161676646706587
+frozenset(['age_mid']),frozenset(['media_good']),0.9467213114754098
+frozenset(['short_term_concept']),frozenset(['rel_islam']),0.8649706457925638
+frozenset(['occupation_cat_1']),frozenset(['hus_edu_high']),0.9151376146788991
+frozenset(['rel_not_islam']),frozenset(['media_good']),0.9636363636363638
+frozenset(['stnd_of_living_int']),frozenset(['media_good']),0.8253275109170306
+frozenset(['working_wife']),frozenset(['media_good']),0.9268292682926829
+frozenset(['stnd_of_living_int']),frozenset(['rel_islam']),0.9344978165938865
+frozenset(['age_mid']),frozenset(['rel_islam']),0.860655737704918
+frozenset(['stnd_of_living_high']),frozenset(['hus_edu_high']),0.7602339181286549
+frozenset(['number_of_children_mid']),frozenset(['not_working_wife']),0.7653508771929826
+frozenset(['short_term_concept']),frozenset(['media_good']),0.9510763209393347
+frozenset(['hus_edu_high']),frozenset(['rel_islam']),0.796440489432703
+frozenset(['edu_mid']),frozenset(['not_working_wife']),0.7829268292682927
+frozenset(['rel_islam']),frozenset(['not_working_wife']),0.762170790103751
+frozenset(['not_working_wife']),frozenset(['rel_islam']),0.8650362318840579
+frozenset(['occupation_cat_2']),frozenset(['rel_islam']),0.7976470588235294
+frozenset(['number_of_children_low']),frozenset(['rel_islam']),0.8505392912172574
+frozenset(['occupation_cat_3']),frozenset(['rel_islam']),0.8974358974358974
+frozenset(['occupation_cat_3']),frozenset(['not_working_wife']),0.7743589743589743
+frozenset(['hus_edu_int']),frozenset(['rel_islam']),0.9550561797752809
+frozenset(['stnd_of_living_high']),frozenset(['rel_islam']),0.7733918128654971
+frozenset(['hus_edu_mid']),frozenset(['rel_islam']),0.9232954545454546
+frozenset(['no_conception']),frozenset(['rel_islam']),0.8807631160572337
+frozenset(['age_low']),frozenset(['number_of_children_low']),0.8930232558139534
+frozenset(['occupation_cat_1']),frozenset(['media_good']),0.9701834862385322
+frozenset(['edu_int']),frozenset(['not_working_wife']),0.7754491017964072
+frozenset(['number_of_children_high']),frozenset(['not_working_wife']),0.7961956521739131
+frozenset(['stnd_of_living_med']),frozenset(['media_good']),0.9489559164733179
+frozenset(['stnd_of_living_med']),frozenset(['rel_islam']),0.8955916473317864
+frozenset(['edu_int']),frozenset(['rel_islam']),0.9341317365269461
+frozenset(['edu_low']),frozenset(['rel_islam']),0.9802631578947368
+frozenset(['age_low']),frozenset(['rel_islam']),0.944186046511628
+frozenset(['hus_edu_mid']),frozenset(['not_working_wife']),0.7528409090909091
+frozenset(['edu_high']),frozenset(['rel_islam']),0.7521663778162911
+frozenset(['age_mature']),frozenset(['not_working_wife']),0.7623574144486692
+frozenset(['edu_mid']),frozenset(['media_good']),0.9560975609756097
+frozenset(['number_of_children_high']),frozenset(['rel_islam']),0.904891304347826
+frozenset(['media_good']),frozenset(['rel_islam']),0.844574780058651
+frozenset(['rel_islam']),frozenset(['media_good']),0.9193934557063049
+frozenset(['short_term_concept']),frozenset(['not_working_wife']),0.7847358121330724
+frozenset(['long_term_conception']),frozenset(['rel_islam']),0.7717717717717718
+frozenset(['hus_edu_high']),frozenset(['media_good']),0.9710789766407119
+frozenset(['long_term_conception']),frozenset(['hus_edu_high']),0.7717717717717718
+frozenset(['occupation_cat_2']),frozenset(['media_good']),0.9152941176470588
+frozenset(['occupation_cat_3']),"frozenset(['rel_islam', 'media_good'])",0.8136752136752136
+frozenset(['occupation_cat_1']),"frozenset(['hus_edu_high', 'media_good'])",0.889908256880734
+frozenset(['stnd_of_living_med']),"frozenset(['rel_islam', 'media_good'])",0.8491879350348028
+frozenset(['number_of_children_low']),"frozenset(['rel_islam', 'media_good'])",0.8043143297380586
+frozenset(['edu_mid']),"frozenset(['not_working_wife', 'media_good'])",0.7512195121951218
+frozenset(['hus_edu_high']),"frozenset(['rel_islam', 'media_good'])",0.7730812013348164
+frozenset(['age_low']),"frozenset(['rel_islam', 'number_of_children_low'])",0.8372093023255813
+frozenset(['hus_edu_mid']),"frozenset(['rel_islam', 'media_good'])",0.8551136363636364
+frozenset(['short_term_concept']),"frozenset(['rel_islam', 'media_good'])",0.821917808219178
+frozenset(['age_low']),"frozenset(['not_working_wife', 'media_good'])",0.7953488372093023
+frozenset(['edu_int']),"frozenset(['rel_islam', 'media_good'])",0.8562874251497007
+frozenset(['stnd_of_living_int']),"frozenset(['rel_islam', 'media_good'])",0.7772925764192141
+frozenset(['rel_not_islam']),"frozenset(['hus_edu_high', 'media_good'])",0.8090909090909092
+frozenset(['occupation_cat_1']),"frozenset(['rel_islam', 'media_good'])",0.8073394495412844
+frozenset(['not_working_wife']),"frozenset(['rel_islam', 'media_good'])",0.7943840579710145
+frozenset(['age_mid']),"frozenset(['rel_islam', 'media_good'])",0.8114754098360656
+frozenset(['edu_mid']),"frozenset(['rel_islam', 'media_good'])",0.8365853658536585
+frozenset(['long_term_conception']),"frozenset(['hus_edu_high', 'media_good'])",0.7537537537537538
+frozenset(['age_low']),"frozenset(['not_working_wife', 'rel_islam'])",0.7999999999999999
+frozenset(['edu_high']),"frozenset(['hus_edu_high', 'media_good'])",0.9324090121317158
+frozenset(['age_low']),"frozenset(['rel_islam', 'media_good'])",0.8837209302325582
+frozenset(['occupation_cat_1']),"frozenset(['hus_edu_high', 'rel_islam'])",0.7545871559633028
+frozenset(['no_conception']),"frozenset(['rel_islam', 'media_good'])",0.7694753577106518
+frozenset(['age_low']),"frozenset(['number_of_children_low', 'media_good'])",0.8558139534883721
+frozenset(['number_of_children_high']),"frozenset(['rel_islam', 'media_good'])",0.7880434782608695
+"frozenset(['stnd_of_living_high', 'no_conception'])","frozenset(['rel_islam', 'media_good'])",0.7741935483870966
+"frozenset(['hus_edu_high', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.7924528301886792
+"frozenset(['short_term_concept', 'hus_edu_high'])","frozenset(['rel_islam', 'media_good'])",0.8092105263157894
+"frozenset(['stnd_of_living_high', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.7535714285714286
+"frozenset(['hus_edu_mid', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.9011627906976744
+"frozenset(['long_term_conception', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9565217391304348
+"frozenset(['long_term_conception', 'hus_edu_high'])","frozenset(['edu_high', 'media_good'])",0.7704280155642023
+"frozenset(['stnd_of_living_high', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.7881619937694704
+"frozenset(['number_of_children_low', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.7976878612716763
+"frozenset(['number_of_children_mid', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8150943396226416
+"frozenset(['edu_int', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.8764478764478764
+"frozenset(['no_conception', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.8011363636363636
+"frozenset(['hus_edu_high', 'no_conception'])","frozenset(['rel_islam', 'media_good'])",0.7899408284023669
+"frozenset(['stnd_of_living_high', 'number_of_children_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.8140495867768595
+"frozenset(['stnd_of_living_high', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.7673469387755103
+"frozenset(['not_working_wife', 'hus_edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.8641509433962264
+"frozenset(['edu_int', 'no_conception'])","frozenset(['rel_islam', 'media_good'])",0.8409090909090909
+"frozenset(['stnd_of_living_high', 'number_of_children_low'])","frozenset(['hus_edu_high', 'media_good'])",0.7607142857142858
+"frozenset(['short_term_concept', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.8923076923076922
+"frozenset(['working_wife', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.7677725118483413
+"frozenset(['hus_edu_high', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.7886904761904762
+"frozenset(['stnd_of_living_med', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.8413461538461539
+"frozenset(['not_working_wife', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.8138528138528138
+"frozenset(['edu_int', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.9005524861878453
+"frozenset(['edu_high', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.7598566308243728
+"frozenset(['occupation_cat_1', 'edu_high'])","frozenset(['stnd_of_living_high', 'media_good'])",0.7524115755627009
+"frozenset(['occupation_cat_1', 'stnd_of_living_high'])","frozenset(['edu_high', 'media_good'])",0.7986348122866894
+"frozenset(['not_working_wife', 'number_of_children_high'])","frozenset(['rel_islam', 'media_good'])",0.7986348122866894
+"frozenset(['short_term_concept', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.8153846153846153
+"frozenset(['long_term_conception', 'stnd_of_living_high'])","frozenset(['hus_edu_high', 'media_good'])",0.8235294117647058
+"frozenset(['number_of_children_low', 'edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.8387096774193548
+"frozenset(['occupation_cat_1', 'edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7813504823151125
+"frozenset(['no_conception', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.7932330827067668
+"frozenset(['edu_high', 'number_of_children_low'])","frozenset(['hus_edu_high', 'media_good'])",0.9534050179211471
+"frozenset(['occupation_cat_1', 'hus_edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7994987468671679
+"frozenset(['occupation_cat_1', 'media_good'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7541371158392434
+"frozenset(['occupation_cat_1', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.8763736263736264
+"frozenset(['not_working_wife', 'edu_high'])","frozenset(['rel_islam', 'media_good'])",0.769041769041769
+"frozenset(['occupation_cat_3', 'no_conception'])","frozenset(['rel_islam', 'media_good'])",0.7829457364341084
+"frozenset(['occupation_cat_1', 'stnd_of_living_high'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7645051194539249
+"frozenset(['working_wife', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9294117647058823
+"frozenset(['occupation_cat_3', 'hus_edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.8497409326424871
+"frozenset(['edu_high', 'age_mature'])","frozenset(['hus_edu_high', 'stnd_of_living_high'])",0.7857142857142857
+"frozenset(['edu_int', 'occupation_cat_3'])","frozenset(['rel_islam', 'media_good'])",0.8695652173913044
+"frozenset(['occupation_cat_3', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8621794871794871
+"frozenset(['short_term_concept', 'stnd_of_living_high'])","frozenset(['hus_edu_high', 'media_good'])",0.7672413793103449
+"frozenset(['occupation_cat_3', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.8246268656716418
+"frozenset(['hus_edu_high', 'edu_mid'])","frozenset(['not_working_wife', 'media_good'])",0.7816593886462883
+"frozenset(['hus_edu_high', 'edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.8078602620087337
+"frozenset(['hus_edu_high', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.7823275862068965
+"frozenset(['short_term_concept', 'edu_high'])","frozenset(['rel_islam', 'media_good'])",0.764102564102564
+"frozenset(['short_term_concept', 'occupation_cat_3'])","frozenset(['rel_islam', 'media_good'])",0.8418803418803419
+"frozenset(['short_term_concept', 'occupation_cat_3'])","frozenset(['not_working_wife', 'media_good'])",0.7948717948717949
+"frozenset(['long_term_conception', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.7663934426229508
+"frozenset(['short_term_concept', 'hus_edu_high'])","frozenset(['not_working_wife', 'media_good'])",0.7664473684210527
+"frozenset(['not_working_wife', 'edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.8317757009345794
+"frozenset(['occupation_cat_1', 'not_working_wife'])","frozenset(['hus_edu_high', 'rel_islam'])",0.76
+"frozenset(['edu_high', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.9405594405594405
+"frozenset(['occupation_cat_3', 'edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.8586387434554974
+"frozenset(['occupation_cat_3', 'stnd_of_living_med'])","frozenset(['rel_islam', 'media_good'])",0.8686868686868686
+"frozenset(['hus_edu_high', 'stnd_of_living_med'])","frozenset(['rel_islam', 'media_good'])",0.8538461538461539
+"frozenset(['hus_edu_high', 'stnd_of_living_med'])","frozenset(['not_working_wife', 'media_good'])",0.7769230769230768
+"frozenset(['occupation_cat_1', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.8074866310160428
+"frozenset(['stnd_of_living_high', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.7507788161993769
+"frozenset(['age_mature', 'number_of_children_high'])","frozenset(['rel_islam', 'media_good'])",0.7601626016260163
+"frozenset(['occupation_cat_1', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.88
+"frozenset(['not_working_wife', 'age_low'])","frozenset(['rel_islam', 'media_good'])",0.8846153846153847
+"frozenset(['age_low', 'media_good'])","frozenset(['not_working_wife', 'rel_islam'])",0.7970297029702971
+"frozenset(['rel_islam', 'age_low'])","frozenset(['not_working_wife', 'media_good'])",0.793103448275862
+"frozenset(['no_conception', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9485714285714286
+"frozenset(['not_working_wife', 'number_of_children_mid'])","frozenset(['rel_islam', 'media_good'])",0.7650429799426934
+"frozenset(['occupation_cat_1', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8019323671497585
+"frozenset(['short_term_concept', 'occupation_cat_3'])","frozenset(['not_working_wife', 'rel_islam'])",0.7521367521367521
+"frozenset(['edu_high', 'age_mature'])","frozenset(['hus_edu_high', 'media_good'])",0.9285714285714285
+"frozenset(['occupation_cat_1', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.8153846153846154
+"frozenset(['occupation_cat_1', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.9371980676328503
+"frozenset(['edu_mid', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8551401869158879
+"frozenset(['hus_edu_high', 'occupation_cat_3'])","frozenset(['rel_islam', 'media_good'])",0.8125000000000001
+"frozenset(['hus_edu_high', 'occupation_cat_3'])","frozenset(['not_working_wife', 'media_good'])",0.7720588235294117
+"frozenset(['stnd_of_living_high', 'age_mature'])","frozenset(['hus_edu_high', 'media_good'])",0.7508417508417509
+"frozenset(['occupation_cat_1', 'edu_high'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7717041800643086
+"frozenset(['no_conception', 'edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.8457142857142858
+"frozenset(['number_of_children_low', 'age_low'])","frozenset(['not_working_wife', 'rel_islam'])",0.7864583333333335
+"frozenset(['not_working_wife', 'age_low'])","frozenset(['rel_islam', 'number_of_children_low'])",0.8296703296703297
+"frozenset(['short_term_concept', 'number_of_children_low'])","frozenset(['not_working_wife', 'media_good'])",0.7692307692307692
+"frozenset(['edu_high', 'age_mature'])","frozenset(['stnd_of_living_high', 'media_good'])",0.8124999999999999
+"frozenset(['short_term_concept', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.8403990024937655
+"frozenset(['short_term_concept', 'rel_islam'])","frozenset(['not_working_wife', 'media_good'])",0.762443438914027
+"frozenset(['occupation_cat_1', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9710610932475884
+"frozenset(['occupation_cat_1', 'hus_edu_high'])","frozenset(['edu_high', 'media_good'])",0.7568922305764412
+"frozenset(['occupation_cat_1', 'stnd_of_living_high'])","frozenset(['rel_islam', 'media_good'])",0.7918088737201365
+"frozenset(['not_working_wife', 'stnd_of_living_med'])","frozenset(['rel_islam', 'media_good'])",0.8648648648648649
+"frozenset(['number_of_children_low', 'age_low'])","frozenset(['rel_islam', 'media_good'])",0.8958333333333334
+"frozenset(['age_low', 'media_good'])","frozenset(['rel_islam', 'number_of_children_low'])",0.8514851485148516
+"frozenset(['rel_islam', 'age_low'])","frozenset(['number_of_children_low', 'media_good'])",0.8472906403940885
+frozenset(['age_low']),"frozenset(['rel_islam', 'number_of_children_low', 'media_good'])",0.7999999999999999
+"frozenset(['number_of_children_low', 'age_low'])","frozenset(['not_working_wife', 'media_good'])",0.8020833333333334
+"frozenset(['not_working_wife', 'age_low'])","frozenset(['number_of_children_low', 'media_good'])",0.8461538461538461
+"frozenset(['age_low', 'media_good'])","frozenset(['not_working_wife', 'number_of_children_low'])",0.7623762376237624
+"frozenset(['occupation_cat_1', 'age_mid'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7971014492753623
+"frozenset(['not_working_wife', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9336609336609336
+"frozenset(['rel_islam', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9239631336405529
+"frozenset(['not_working_wife', 'no_conception'])","frozenset(['rel_islam', 'media_good'])",0.7690631808278866
+"frozenset(['stnd_of_living_med', 'no_conception'])","frozenset(['rel_islam', 'media_good'])",0.8152173913043478
+"frozenset(['short_term_concept', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8534201954397395
+"frozenset(['hus_edu_high', 'age_mature'])","frozenset(['not_working_wife', 'media_good'])",0.7539432176656152
+"frozenset(['occupation_cat_1', 'stnd_of_living_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9351535836177474
+"frozenset(['not_working_wife', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8291746641074856
+"frozenset(['occupation_cat_1', 'age_mature'])","frozenset(['hus_edu_high', 'media_good'])",0.8267326732673268
+"frozenset(['stnd_of_living_med', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8405172413793104
+"frozenset(['occupation_cat_1', 'age_mature'])","frozenset(['rel_islam', 'media_good'])",0.7970297029702971
+"frozenset(['not_working_wife', 'occupation_cat_3'])","frozenset(['rel_islam', 'media_good'])",0.8233995584988963
+"frozenset(['occupation_cat_1', 'stnd_of_living_high'])","frozenset(['hus_edu_high', 'edu_high'])",0.78839590443686
+"frozenset(['edu_high', 'number_of_children_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.9253731343283583
+"frozenset(['stnd_of_living_high', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9637305699481867
+"frozenset(['long_term_conception', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.7622950819672132
+"frozenset(['short_term_concept', 'number_of_children_mid'])","frozenset(['rel_islam', 'media_good'])",0.8020304568527918
+"frozenset(['occupation_cat_1', 'number_of_children_low'])","frozenset(['hus_edu_high', 'media_good'])",0.9411764705882353
+"frozenset(['short_term_concept', 'stnd_of_living_high'])","frozenset(['rel_islam', 'media_good'])",0.7543103448275862
+"frozenset(['not_working_wife', 'no_conception', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.7983539094650206
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'not_working_wife'])","frozenset(['edu_high', 'media_good'])",0.7674418604651163
+"frozenset(['occupation_cat_1', 'hus_edu_high', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8040201005025126
+"frozenset(['occupation_cat_1', 'age_mid', 'media_good'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7960199004975126
+"frozenset(['occupation_cat_1', 'rel_islam', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.930232558139535
+"frozenset(['occupation_cat_1', 'age_mid'])","frozenset(['hus_edu_high', 'rel_islam', 'media_good'])",0.7729468599033816
+"frozenset(['stnd_of_living_high', 'age_mid', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.8256880733944955
+"frozenset(['edu_high', 'number_of_children_low', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.9595375722543353
+"frozenset(['hus_edu_high', 'edu_high', 'age_mature'])","frozenset(['stnd_of_living_high', 'media_good'])",0.8293838862559243
+"frozenset(['edu_high', 'age_mature', 'media_good'])","frozenset(['hus_edu_high', 'stnd_of_living_high'])",0.7918552036199095
+"frozenset(['hus_edu_high', 'stnd_of_living_high', 'age_mature'])","frozenset(['edu_high', 'media_good'])",0.7709251101321586
+"frozenset(['stnd_of_living_high', 'edu_high', 'age_mature'])","frozenset(['hus_edu_high', 'media_good'])",0.9562841530054644
+"frozenset(['edu_high', 'age_mature'])","frozenset(['hus_edu_high', 'stnd_of_living_high', 'media_good'])",0.78125
+"frozenset(['occupation_cat_1', 'hus_edu_high', 'edu_high'])","frozenset(['stnd_of_living_high', 'media_good'])",0.7540983606557378
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'hus_edu_high'])","frozenset(['edu_high', 'media_good'])",0.8243727598566309
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'media_good'])","frozenset(['hus_edu_high', 'edu_high'])",0.8013937282229966
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9787234042553192
+"frozenset(['occupation_cat_1', 'stnd_of_living_high'])","frozenset(['hus_edu_high', 'edu_high', 'media_good'])",0.7849829351535836
+"frozenset(['hus_edu_high', 'stnd_of_living_high', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.757085020242915
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7782805429864252
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high'])","frozenset(['hus_edu_high', 'media_good'])",0.9683257918552036
+"frozenset(['stnd_of_living_high', 'edu_high', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.9562043795620438
+"frozenset(['hus_edu_high', 'no_conception', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.7963800904977375
+"frozenset(['not_working_wife', 'occupation_cat_3', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.84
+"frozenset(['hus_edu_high', 'short_term_concept', 'rel_islam'])","frozenset(['not_working_wife', 'media_good'])",0.7928286852589641
+"frozenset(['hus_edu_high', 'not_working_wife', 'short_term_concept'])","frozenset(['rel_islam', 'media_good'])",0.8326359832635982
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'not_working_wife'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7627906976744185
+"frozenset(['hus_edu_high', 'rel_islam', 'edu_mid'])","frozenset(['not_working_wife', 'media_good'])",0.7708333333333334
+"frozenset(['hus_edu_high', 'not_working_wife', 'edu_mid'])","frozenset(['rel_islam', 'media_good'])",0.7956989247311828
+"frozenset(['stnd_of_living_high', 'age_mid', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.7522935779816514
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'rel_islam'])","frozenset(['hus_edu_high', 'edu_high'])",0.7563025210084034
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7659574468085106
+"frozenset(['not_working_wife', 'edu_high', 'age_mature'])","frozenset(['hus_edu_high', 'media_good'])",0.9457831325301205
+"frozenset(['hus_edu_high', 'number_of_children_low', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.7580645161290323
+"frozenset(['not_working_wife', 'occupation_cat_3', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8771186440677966
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'hus_edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7849462365591398
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'media_good'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7630662020905923
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.9201680672268908
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'rel_islam'])","frozenset(['edu_high', 'media_good'])",0.7689075630252101
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7787234042553192
+"frozenset(['hus_edu_high', 'occupation_cat_3', 'rel_islam'])","frozenset(['not_working_wife', 'media_good'])",0.7850877192982457
+"frozenset(['hus_edu_high', 'not_working_wife', 'occupation_cat_3'])","frozenset(['rel_islam', 'media_good'])",0.8248847926267282
+"frozenset(['hus_edu_high', 'edu_high', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.7602996254681649
+"frozenset(['edu_high', 'number_of_children_low', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.9530516431924883
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'not_working_wife'])","frozenset(['hus_edu_high', 'edu_high'])",0.7534883720930232
+"frozenset(['hus_edu_high', 'rel_islam', 'number_of_children_mid'])","frozenset(['not_working_wife', 'media_good'])",0.7772925764192141
+"frozenset(['hus_edu_high', 'not_working_wife', 'number_of_children_mid'])","frozenset(['rel_islam', 'media_good'])",0.7606837606837608
+"frozenset(['hus_edu_high', 'not_working_wife', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8098159509202454
+"frozenset(['not_working_wife', 'age_mature', 'number_of_children_high'])","frozenset(['rel_islam', 'media_good'])",0.7733990147783251
+"frozenset(['stnd_of_living_high', 'edu_high', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.9628252788104089
+"frozenset(['hus_edu_high', 'short_term_concept', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8360655737704917
+"frozenset(['not_working_wife', 'number_of_children_low', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8185840707964602
+"frozenset(['hus_edu_high', 'rel_islam', 'age_mature'])","frozenset(['not_working_wife', 'media_good'])",0.7586206896551724
+"frozenset(['not_working_wife', 'edu_high', 'number_of_children_low'])","frozenset(['hus_edu_high', 'media_good'])",0.9558011049723757
+"frozenset(['short_term_concept', 'rel_islam', 'age_mid'])","frozenset(['not_working_wife', 'media_good'])",0.7655677655677656
+"frozenset(['short_term_concept', 'not_working_wife', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8744769874476986
+"frozenset(['hus_edu_high', 'not_working_wife', 'edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7630208333333335
+"frozenset(['not_working_wife', 'edu_high', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.9272151898734178
+"frozenset(['edu_high', 'rel_islam', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.9392523364485981
+"frozenset(['stnd_of_living_high', 'edu_high', 'number_of_children_low'])","frozenset(['hus_edu_high', 'media_good'])",0.9876543209876544
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.7953488372093023
+"frozenset(['occupation_cat_1', 'hus_edu_high', 'edu_high'])","frozenset(['rel_islam', 'media_good'])",0.780327868852459
+"frozenset(['occupation_cat_1', 'edu_high', 'media_good'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7727272727272727
+"frozenset(['occupation_cat_1', 'edu_high', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.9714285714285714
+"frozenset(['occupation_cat_1', 'edu_high'])","frozenset(['hus_edu_high', 'rel_islam', 'media_good'])",0.765273311897106
+"frozenset(['not_working_wife', 'number_of_children_mid', 'age_mid'])","frozenset(['rel_islam', 'media_good'])",0.8300970873786407
+"frozenset(['hus_edu_high', 'not_working_wife', 'no_conception'])","frozenset(['rel_islam', 'media_good'])",0.7827868852459016
+"frozenset(['stnd_of_living_high', 'edu_high', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.9712643678160919
+"frozenset(['occupation_cat_1', 'not_working_wife', 'hus_edu_high'])","frozenset(['rel_islam', 'media_good'])",0.8101694915254237
+"frozenset(['occupation_cat_1', 'not_working_wife', 'media_good'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7611464968152867
+"frozenset(['occupation_cat_1', 'not_working_wife', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.8690909090909091
+"frozenset(['not_working_wife', 'edu_high', 'age_mid'])","frozenset(['hus_edu_high', 'media_good'])",0.9301075268817203
+"frozenset(['hus_edu_high', 'stnd_of_living_med', 'rel_islam'])","frozenset(['not_working_wife', 'media_good'])",0.7857142857142857
+"frozenset(['hus_edu_high', 'not_working_wife', 'stnd_of_living_med'])","frozenset(['rel_islam', 'media_good'])",0.8712871287128714
+"frozenset(['hus_edu_high', 'not_working_wife', 'number_of_children_low'])","frozenset(['rel_islam', 'media_good'])",0.7966101694915254
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7918552036199095
+"frozenset(['short_term_concept', 'occupation_cat_3', 'media_good'])","frozenset(['not_working_wife', 'rel_islam'])",0.755656108597285
+"frozenset(['short_term_concept', 'occupation_cat_3', 'rel_islam'])","frozenset(['not_working_wife', 'media_good'])",0.8028846153846154
+"frozenset(['short_term_concept', 'not_working_wife', 'occupation_cat_3'])","frozenset(['rel_islam', 'media_good'])",0.8520408163265306
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.9255813953488372
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'hus_edu_high', 'not_working_wife'])","frozenset(['rel_islam', 'media_good'])",0.7881773399014778
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'media_good', 'not_working_wife'])","frozenset(['hus_edu_high', 'rel_islam'])",0.761904761904762
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'rel_islam', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.9090909090909092
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high', 'hus_edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7916666666666666
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high', 'media_good'])","frozenset(['hus_edu_high', 'rel_islam'])",0.7808219178082192
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.9715909090909091
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high'])","frozenset(['hus_edu_high', 'rel_islam', 'media_good'])",0.7737556561085972
+"frozenset(['stnd_of_living_high', 'edu_high', 'rel_islam', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.9591836734693877
+"frozenset(['occupation_cat_1', 'not_working_wife', 'edu_high', 'hus_edu_high'])","frozenset(['stnd_of_living_high', 'media_good'])",0.75
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'hus_edu_high', 'not_working_wife'])","frozenset(['edu_high', 'media_good'])",0.7980295566502462
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'media_good', 'not_working_wife'])","frozenset(['hus_edu_high', 'edu_high'])",0.7714285714285715
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high', 'not_working_wife'])","frozenset(['hus_edu_high', 'media_good'])",0.9818181818181818
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'not_working_wife'])","frozenset(['hus_edu_high', 'edu_high', 'media_good'])",0.7534883720930232
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'rel_islam', 'hus_edu_high'])","frozenset(['edu_high', 'media_good'])",0.7991071428571429
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'rel_islam', 'media_good'])","frozenset(['hus_edu_high', 'edu_high'])",0.771551724137931
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high', 'hus_edu_high'])","frozenset(['rel_islam', 'media_good'])",0.7748917748917749
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high', 'media_good'])","frozenset(['hus_edu_high', 'rel_islam'])",0.764957264957265
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high', 'rel_islam'])","frozenset(['hus_edu_high', 'media_good'])",0.9728260869565217
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'rel_islam'])","frozenset(['hus_edu_high', 'edu_high', 'media_good'])",0.7521008403361346
+"frozenset(['occupation_cat_1', 'stnd_of_living_high', 'edu_high'])","frozenset(['hus_edu_high', 'rel_islam', 'media_good'])",0.7617021276595745

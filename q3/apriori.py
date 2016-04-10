@@ -16,8 +16,8 @@ Used to actually generate the union of elements of possible transaction
 Using F_k-1 * F_k-1
 '''
 def aprioriGenF_K_1(freq_sets, k):
-    retList = []
-    
+    CombinationOutput = []
+    #print(freq_sets,"This is Freak")
     #Length of the frequent sets
     lenLk = len(freq_sets)
     
@@ -26,25 +26,26 @@ def aprioriGenF_K_1(freq_sets, k):
         for j in range(i + 1, lenLk):
             #Select the Frequent Itemsets, only k-2 elements are selected to save computations
             L1 = list(freq_sets[i])[:k - 2]
+            #print(L1,"This is L1")
             #Select the Frequent Itemsets, only k-2 elements are selected to save computations
             L2 = list(freq_sets[j])[:k - 2]
+            #print(L2,"This is L2")
             #Sort to compare their equality
             L1.sort()
             L2.sort()
             #Sorting and now comparing them
             if L1 == L2:
                 #If the k-2 elements are equal combine the complete set
-                retList.append(freq_sets[i] | freq_sets[j])
-                print(retList,"retList")
-    return retList
+                CombinationOutput.append(freq_sets[i] | freq_sets[j])
+                #print(retList,"retList")
+    return CombinationOutput
 
 '''
 Used to actually generate the union of elements of possible transaction
 Using F_k-1 * F_1
 '''
 def aprioriGenF_1(freq_sets, L1set, k):
-    retList = []
-    
+    CombinationOutput = []
     #Length of the frequent sets
     lenLk = len(freq_sets)
     lenL1 = len(L1set)
@@ -53,18 +54,19 @@ def aprioriGenF_1(freq_sets, L1set, k):
     for i in range(lenLk):
         for j in range(lenL1):
             #Select the Frequent Itemsets, only k-2 elements are selected to save computations
-            L1 = list(freq_sets[i])[:k - 2]
+            L1 = list(freq_sets[i])[:]
             #Select the Frequent Itemsets, only k-2 elements are selected to save computations
-            L2 = list(L1set[j])[:1]
-            #print(L2,"Hello")
+            L2 = list(L1set[j])[0]
             #Sort to compare their equality
             L1.sort()
-            L2.sort()
-            #Sorting and now comparing them
-            if L2 not in L1:
-                retList.append(freq_sets[i] | L1set[j])
-            print(retList,"retList")
-    return retList
+            #L2.sort()
+            #print(L1[-1],"L1 ka last",L2[0],"L2 ka first")
+            #Checking the only element in L1 (L2 list) with the last element of L1[]
+            #This ensures that the element being combined is greater than the ones present.
+            if all(L2>m for m in L1):
+                #If the k-2 elements are equal combine the complete set
+                CombinationOutput.append(freq_sets[i] | L1set[j])
+    return CombinationOutput
 
 '''
 Method used to generate a list of candidate items for each k
@@ -73,7 +75,7 @@ It executes a while loop
 
 def apriori(dataset, minsupport):
     print("========================Iteration k=0 Started=====================================")
-    print("========================Iteration k=0 Ended=====================================")
+    print("========================Iteration k=0 Ended=======================================")
     
     #Candidate Set is generated to find the items above support count
     candidate_set1 = cdgen.candidateC1(dataset)
@@ -87,17 +89,17 @@ def apriori(dataset, minsupport):
     k = 2
     i = 0
     while (len(L[k - 2]) > 0):
-        print("========================Iteration k="+str(k-1)+" Started=====================================")
-        #Ck = aprioriGenF_K_1(L[k - 2], k)
-        Ck = aprioriGenF_1(L[k - 2], L[0], k)
+        #print("========================Iteration k="+str(k-1)+" Started=====================================")
+        Ck = aprioriGenF_K_1(L[k - 2], k)
+        #Ck = aprioriGenF_1(L[k - 2], candidate_set1, k)
         
         Lk, supK = cdgen.dataSetScanner(D, Ck, minsupport)
         support_data.update(supK)
         L.append(Lk)
-        print("Lk = ",end = " ")
-        print(L[i])
+        #print("Lk = ",end = " ")
+        #print(L[i])
         i = i + 1
-        print("========================Iteration k="+str(k-1)+" Ended=========================================")
+        #print("========================Iteration k="+str(k-1)+" Ended=========================================")
         k += 1
 
     return L, support_data, minsupport

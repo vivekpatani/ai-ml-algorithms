@@ -1,22 +1,17 @@
-#!/usr/bin/perl 
+L <- We sort the the input with decreasing scores of f:
+Fp <- TP <- 0
+R <- 0
+i <- 1
+while i <= L do
+	if f(i) != fprev then
+	push (FP/N, TP/P) onto R
+	fprev <- f(i)
+	end if
 
-use strict; 
-use warnings;
-
-for (1..99) { print $_." Luftballons\n"; }
-
-# This is a commented line
-
-my $string = "Hello World!";
-
-print $string."\n\n";
-
-$string =~ s/Hello/Goodbye/;
-
-print $string."\n\n";
-
-test();
-
-exit;
-
-sub test { print "All good.\n"; }
+	if L[i] is positive:
+	TP <- TP + 1
+	else FP <- FP + 1
+	i = i + 1
+end while
+push(FP/N,TP/P)
+end
